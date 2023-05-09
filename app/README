@@ -1,0 +1,12 @@
+# MVP
+
+1. M: model 层 主要是用于服务器数据请求、数据库处理
+1. V：View 层可能是Activity或者是Fragment
+1. P：presenter 是View和Model的链接类
+
+    在实现细节上，View 和 Presenter 中间会定义一个协议接口 Contract，这个接口会约定 View 如何向 Presenter 发指令和 Presenter 如何 Callback 给 View。这样的架构里 Activity 不再有表现逻辑的部分，Activity 作为 View 的角色只处理和 UI 有关的事情。但还是存在一些缺点：
+
+- 双向依赖： View 和 Presenter 是双向依赖的，一旦 View 层做出改变，相应地 Presenter 也需要做出调整。在业务语境下，View 层变化是大概率事件；
+- 内存泄漏风险： Presenter 持有 View 层的引用，当用户关闭了 View 层，但 Model 层仍然在进行耗时操作，就会有内存泄漏风险。虽然有解决办法，但还是存在风险点和复杂度（弱引用 / onDestroy() 回收 Presenter）。
+- 协议接口类膨胀： View 层和 Presenter 层的交互需要定义接口方法，当交互非常复杂时，需要定义很多接口方法和回调方法，也不好维护。
+
