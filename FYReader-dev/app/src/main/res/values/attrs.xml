@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ This file is part of FYReader.
+  ~ FYReader is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ FYReader is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with FYReader.  If not, see <https://www.gnu.org/licenses/>.
+  ~
+  ~ Copyright (C) 2020 - 2022 fengyuecanzhu
+  -->
+
+<resources>
+
+    <declare-styleable name="RefreshLayout">
+        <attr name="layout_refresh_empty" format="reference"/>
+        <attr name="layout_refresh_error" format="reference"/>
+        <attr name="layout_refresh_loading" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="Animation_emerge">
+        <attr name="windowEnterAnimation" format="integer"/>
+        <attr name="windowExitAnimation" format="integer"/>
+
+    </declare-styleable>
+
+    <declare-styleable name="CircleImageView">
+        <attr name="civ_border_width" format="dimension"/>
+        <attr name="civ_border_color" format="color"/>
+        <attr name="civ_border_overlay" format="boolean"/>
+        <attr name="civ_fill_color" format="color"/>
+    </declare-styleable>
+
+
+    <attr name="progressColor" format="color"/>
+    <attr name="progressBackColor" format="color"/>
+    <attr name="progress" format="integer"/>
+    <attr name="minProgress" format="integer"/>
+    <attr name="maxProgress" format="integer"/>
+
+    <declare-styleable name="ProgressButton">
+        <attr name="progressColor"/>
+        <attr name="progressBackColor"/>
+        <attr name="buttonColor" format="color"/>
+        <attr name="cornerRadius" format="dimension"/>
+        <attr name="progress"/>
+        <attr name="minProgress"/>
+        <attr name="maxProgress"/>
+        <attr name="progressMargin" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="RefreshProgressBar">
+        <attr name="max_progress" format="integer"/>
+        <attr name="dur_progress" format="integer"/>
+        <attr name="second_dur_progress" format="dimension"/>
+        <attr name="second_max_progress" format="dimension"/>
+        <attr name="bg_color" format="color"/>
+        <attr name="second_color" format="color"/>
+        <attr name="font_color" format="color"/>
+        <attr name="speed" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="SwipeMenuLayout">
+        <attr name="swipeEnable" format="boolean"/>
+        <attr name="ios" format="boolean"/>
+        <attr name="leftSwipe" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="FastScroller">
+        <attr name="fadeScrollbar" format="boolean" />
+        <attr name="showBubble" format="boolean" />
+        <attr name="showTrack" format="boolean" />
+        <attr name="trackColor" format="color" />
+        <attr name="handleColor" format="color" />
+        <attr name="bubbleColor" format="color" />
+        <attr name="bubbleTextColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="AVLoadingIndicatorView">
+        <attr name="minWidth" format="dimension" />
+        <attr name="maxWidth" format="dimension"/>
+        <attr name="minHeight" format="dimension" />
+        <attr name="maxHeight" format="dimension"/>
+        <attr name="indicatorName" format="string"/>
+        <attr name="indicatorColor" format="color"/>
+    </declare-styleable>
+</resources>

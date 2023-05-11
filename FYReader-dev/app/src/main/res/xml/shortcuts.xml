@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ This file is part of FYReader.
+  ~ FYReader is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ FYReader is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with FYReader.  If not, see <https://www.gnu.org/licenses/>.
+  ~
+  ~ Copyright (C) 2020 - 2022 fengyuecanzhu
+  -->
+
+<shortcuts xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="bookRead"
+        android:enabled="true"
+        android:icon="@drawable/ic_read_book"
+        android:shortcutShortLabel="@string/last_read"
+        android:shortcutLongLabel="@string/last_read"
+        android:shortcutDisabledMessage="@string/last_read"
+        tools:ignore="UnusedAttribute">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="xyz.fycz.myreader"
+            android:targetClass="zhy.hongyuan.ui.activity.MainActivity" />
+        <categories android:name="android.shortcut.conversation" />
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="xyz.fycz.myreader"
+            android:targetClass="zhy.hongyuan.ui.activity.ReadActivity" />
+        <categories android:name="android.shortcut.conversation"/>
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="bookshelf"
+        android:enabled="true"
+        android:icon="@drawable/ic_bookshelf"
+        android:shortcutShortLabel="@string/bookshelf"
+        android:shortcutLongLabel="@string/bookshelf"
+        android:shortcutDisabledMessage="@string/bookshelf"
+        tools:ignore="UnusedAttribute">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="xyz.fycz.myreader"
+            android:targetClass="zhy.hongyuan.ui.activity.MainActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+    <shortcut
+            android:shortcutId="searchbook"
+            android:enabled="true"
+            android:icon="@drawable/ic_search2"
+            android:shortcutShortLabel="@string/menu_bookcase_search"
+            android:shortcutLongLabel="@string/menu_bookcase_search"
+            android:shortcutDisabledMessage="@string/menu_bookcase_search"
+            tools:ignore="UnusedAttribute">
+        <intent
+                android:action="android.intent.action.VIEW"
+                android:targetPackage="xyz.fycz.myreader"
+                android:targetClass="zhy.hongyuan.ui.activity.MainActivity" />
+        <categories android:name="android.shortcut.conversation" />
+        <intent
+                android:action="android.intent.action.VIEW"
+                android:targetPackage="xyz.fycz.myreader"
+                android:targetClass="zhy.hongyuan.ui.activity.SearchBookActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>

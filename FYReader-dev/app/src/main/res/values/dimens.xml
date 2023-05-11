@@ -1,0 +1,86 @@
+<!--
+  ~ This file is part of FYReader.
+  ~ FYReader is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ FYReader is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with FYReader.  If not, see <https://www.gnu.org/licenses/>.
+  ~
+  ~ Copyright (C) 2020 - 2022 fengyuecanzhu
+  -->
+
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- 全局使用的大小 -->
+    <dimen name="title_bar_txt_size">20sp</dimen>
+    <dimen name="default_btn_radius">5dp</dimen>
+    <dimen name="view_left_right_padding">28dp</dimen>
+    <dimen name="title_bar_height">40dp</dimen>
+
+    <!-- Login页面 -->
+    <dimen name="login_email_txt_size">18sp</dimen>
+    <dimen name="login_regist_head_icon_size">80dp</dimen>
+    <dimen name="add_friend_txt_size">18sp</dimen>
+    <dimen name="msg_del_offset">70dp</dimen>
+
+    <!-- 文字的大小 -->
+    <dimen name="text_minimum_size">10sp</dimen>
+    <dimen name="text_default_size">12sp</dimen>
+    <dimen name="text_small_size">14sp</dimen>
+    <dimen name="text_normal_size">16sp</dimen>
+    <dimen name="text_medium_size">18sp</dimen>
+    <dimen name="text_senior_size">20sp</dimen>
+    <dimen name="text_large_size">22sp</dimen>
+    <dimen name="default_padding_top">5dp</dimen>
+    <dimen name="default_padding_bottom">5dp</dimen>
+    <dimen name="default_padding_right">15dp</dimen>
+    <dimen name="default_padding_left">15dp</dimen>
+    <dimen name="contact_item_padding_left">5dp</dimen>
+    <dimen name="item_head_icon_size">50dp</dimen>
+    <dimen name="chat_head_icon_size">40dp</dimen>
+    <dimen name="save_btn_height">30dp</dimen>
+
+    <dimen name="me_head_icon_size">75dp</dimen>
+    <dimen name="drop_down_list_header_padding_top">12dp</dimen>
+    <dimen name="drop_down_list_header_padding_bottom">5dp</dimen>
+    <dimen name="drop_down_list_header_release_min_distance">0dp</dimen>
+    <dimen name="drop_down_list_header_progress_bar_height">36dp</dimen>
+
+    <!--  loginActivity-->
+
+    <dimen name="login_logo_top_pad">0dp</dimen>
+    <dimen name="login_weith">250dp</dimen>
+
+
+    <dimen name="tab_home_text_size">16sp</dimen>
+
+    <dimen name="_10dp">10dp</dimen>
+    <dimen name="_15dp">15dp</dimen>
+
+    <dimen name="fastscroll_bubble_radius">44dp</dimen>
+    <dimen name="fastscroll_bubble_size">88dp</dimen>
+    <dimen name="fastscroll_bubble_textsize">48sp</dimen>
+    <dimen name="fastscroll_bubble_padding">16dp</dimen>
+
+    <dimen name="fastscroll_handle_height">40dp</dimen>
+    <dimen name="fastscroll_handle_width">8dp</dimen>
+    <dimen name="fastscroll_handle_radius">0dp</dimen>
+
+    <dimen name="fastscroll_track_width">2dp</dimen>
+
+    <dimen name="fastscroll_scrollbar_margin_top">8dp</dimen>
+    <dimen name="fastscroll_scrollbar_margin_bottom">8dp</dimen>
+    <dimen name="fastscroll_scrollbar_padding_start">8dp</dimen>
+    <dimen name="fastscroll_scrollbar_padding_end">8dp</dimen>
+</resources>

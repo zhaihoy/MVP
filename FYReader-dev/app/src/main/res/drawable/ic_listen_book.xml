@@ -1,0 +1,27 @@
+<!--
+  ~ This file is part of FYReader.
+  ~ FYReader is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ FYReader is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with FYReader.  If not, see <https://www.gnu.org/licenses/>.
+  ~
+  ~ Copyright (C) 2020 - 2022 fengyuecanzhu
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="1024"
+    android:viewportHeight="1024">
+  <path
+      android:pathData="M511.3,159.6C289.9,159.6 110.6,339 112,560.3v193.4c0,61.6 46.2,110.7 105.1,110.7 57.4,0 105.1,-50.4 105.1,-110.7L322.2,629c0,-61.6 -46.2,-110.7 -105.1,-110.7 -23.8,0 -46.2,7 -63,21 9.8,-189.1 166.7,-337.6 357.3,-337.6 190.5,0 347.5,148.5 358.7,337.6 -18.2,-14 -39.2,-21 -63,-22.4 -57.4,0 -105.1,50.4 -105.1,110.7v124.7c0,61.6 46.2,110.7 105.1,110.7 57.4,0 105.1,-50.4 105.1,-110.7v-192C912,339 732.7,159.6 511.3,159.6zM215.7,560.3c35,0 63,29.4 63,67.2v124.7c0,36.4 -28,67.2 -63,67.2s-63,-29.4 -63,-67.2L152.7,627.6c-0.1,-36.5 28,-67.3 63,-67.3zM870,752.3c0,36.4 -28,67.2 -63,67.2s-63,-29.4 -63,-67.2L744,627.6c0,-36.4 28,-67.2 63,-67.2s63,29.4 63,67.2v124.7z"
+      android:fillColor="#ffffff"/>
+</vector>
