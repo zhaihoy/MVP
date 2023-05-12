@@ -1,0 +1,10 @@
+#Fri May 12 10:17:59 CST 2023
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/dex/release/mergeDexRelease/classes3.dex
+base.1=/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+base.0=/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/dex/release/mergeDexRelease/classes.dex

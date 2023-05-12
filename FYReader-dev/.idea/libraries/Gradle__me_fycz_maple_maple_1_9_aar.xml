@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: me.fycz.maple:maple:1.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ab82e56b671eccaf1fc52cbd422d1820/transformed/jetified-maple-1.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ab82e56b671eccaf1fc52cbd422d1820/transformed/jetified-maple-1.9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.fycz.maple/maple/1.9/cb2469523162783827d7724e98aaceaf70f6545f/maple-1.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

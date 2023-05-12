@@ -1,0 +1,30 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ This file is part of FYReader.
+4  ~ FYReader is free software: you can redistribute it and/or modify
+5  ~ it under the terms of the GNU General Public License as published by
+6  ~ the Free Software Foundation, either version 3 of the License, or
+7  ~ (at your option) any later version.
+8  ~
+9  ~ FYReader is distributed in the hope that it will be useful,
+10  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+11  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+12  ~ GNU General Public License for more details.
+13  ~
+14  ~ You should have received a copy of the GNU General Public License
+15  ~ along with FYReader.  If not, see <https://www.gnu.org/licenses/>.
+16  ~
+17  ~ Copyright (C) 2020 - 2022 fengyuecanzhu
+18-->
+19<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+20    package="com.kongzue.dialogx"
+21    android:versionCode="10"
+22    android:versionName="1.0" >
+23
+24    <uses-sdk
+25        android:minSdkVersion="21"
+25-->/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/DialogX/src/main/AndroidManifest.xml
+26        android:targetSdkVersion="29" />
+26-->/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/DialogX/src/main/AndroidManifest.xml
+27
+28</manifest>

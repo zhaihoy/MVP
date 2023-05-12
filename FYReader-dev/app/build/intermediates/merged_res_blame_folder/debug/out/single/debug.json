@@ -1,0 +1,1390 @@
+[
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_info.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_info.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/anim_slide_bottom_out.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/anim/slide_bottom_out.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_settings.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_tag_blue_shape.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/tag_blue_shape.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_online_syn.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_online_syn.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_fragment_find_book_2.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/fragment_find_book_2.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_quotations.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_quotations.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_item_lan_zou_file.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/item_lan_zou_file.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_fragment_local_book.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/fragment_local_book.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_order.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/mipmap-xhdpi/ic_order.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_selector_btn_add.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/selector_btn_add.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_fragment_webdav_setting.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/fragment_webdav_setting.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_download.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_download.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_restore.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_restore.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/menu_menu_book.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/menu/menu_book.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_download_line.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_download_line.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_item_book_tag.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/item_book_tag.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_view_empty.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/view_empty.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_shape_runway.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/shape_runway.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_bg_loading_dialog.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/bg_loading_dialog.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_vector_add_bookcase.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_vector_add_bookcase.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/anim_anim_recycle_item.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/anim/anim_recycle_item.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_about.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_layout_book_detail_content.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/layout_book_detail_content.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_item_replace_rule.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/item_replace_rule.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_font_use_btn_bg.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/font_use_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_save.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_save.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_tag_txt.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_tag_txt.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_history_black_24dp.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/ic_history_black_24dp.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/anim_fade_in.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_spinner_item.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_history_black_24dp.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-hdpi/ic_history_black_24dp.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_smile_face.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_smile_face.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_setting_style_blue_deep_circle.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/setting_style_blue_deep_circle.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_setting_style_breen_circle.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/setting_style_breen_circle.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_night_mode.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_night_mode.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_dialog_replace.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/dialog_replace.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/color_selector_btn_file_delete.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/color/selector_btn_file_delete.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_support.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_support.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_pause_24dp.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_pause_24dp.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_fragment_local_source.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/fragment_local_source.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_book_detail.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_book_detail.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/anim_fragment_exit.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/anim/fragment_exit.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_item_book_source.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/item_book_source.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_success.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_success.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_search_book.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_search_book.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/menu_menu_rule.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/menu/menu_rule.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_right_arrow_small.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_right_arrow_small.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_selector_btn_input_finish.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/selector_btn_input_finish.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_setting_circle_btn_bg.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xxxhdpi/setting_circle_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_dialog_close_update.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/mipmap-xxxhdpi/dialog_close_update.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_search_btn_backcolor.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/search_btn_backcolor.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/menu_menu_book_info_edit.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/menu/menu_book_info_edit.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_booksource.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_booksource.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_item_find_source.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/item_find_source.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_down_center.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/mipmap-xxxhdpi/down_center.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_fragment_book_list.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/fragment_book_list.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_stop_black_24dp.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_stop_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_swipe_left.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_swipe_left.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/anim_push_bottom_out.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/anim/push_bottom_out.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/anim_fragment_enter.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/anim/fragment_enter.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_actiity_bookstore.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/actiity_bookstore.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_enable.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_enable.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_list.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_list.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_image_btn_bg.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xxxhdpi/image_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_toolbar.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_fragment_bookmark.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/fragment_bookmark.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_font_btn_selector.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/font_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_item_search_word1.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/item_search_word1.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_error.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_error.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_theme_mode_bak.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/theme_mode_bak.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_source_subscribe.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_source_subscribe.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_fastscroll_handle.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/fastscroll_handle.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_catalog.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_catalog.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/raw_silent_sound.mp3.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/raw/silent_sound.mp3"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_item_group.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/item_group.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_input_bg_shape.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/input_bg_shape.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_more_setting.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_more_setting.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_item_read_record.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/item_read_record.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_ad.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_ad.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_last.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_last.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_dicovery.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_dicovery.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_setting_style_common_circle.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/setting_style_common_circle.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/menu_menu_store.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/menu/menu_store.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_selector_common_bg.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/selector_common_bg.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_selector_btn_delete.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/selector_btn_delete.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_bookshelf.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_bookshelf.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_book_has.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_book_has.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_start.jpg.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/start.jpg"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_layout_book_detail_bottom.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/layout_book_detail_bottom.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_fragment_private_bookcase.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/fragment_private_bookcase.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_auto_page.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_auto_page.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_more.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_more.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_item_search_word2.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/item_search_word2.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_dialog_loading.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/mipmap-xhdpi/ic_dialog_loading.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_search.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/menu_menu_import_source.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/menu/menu_import_source.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_scan.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_scan.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_setting_circle1.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xxxhdpi/setting_circle1.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_share.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_share.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_shape_unclick.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/shape_unclick.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_back.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_back.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_item_search_book.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/item_search_book.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_menu.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/color_selector_get_emali_code.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/color/selector_get_emali_code.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_import.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_import.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_remove_ad.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_remove_ad.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_crash.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_crash.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/menu_menu_source_login.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/menu/menu_source_login.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_history_black_24dp.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xxxhdpi/ic_history_black_24dp.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/mipmap-xhdpi_r4.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/mipmap-xhdpi/r4.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_menu_read_setting.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/menu_read_setting.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_setting_leather_style_btn_bg.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/setting_leather_style_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_book_info_edit.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_book_info_edit.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_file_loaded.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/ic_file_loaded.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_dialog_textview.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/dialog_textview.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_menu_customize_com.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/menu_customize_com.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_reboot.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_reboot.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_font_example_bg.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/font_example_bg.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/anim_fragment_exit_pop.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/anim/fragment_exit_pop.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_file_system.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_file_system.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_font_using_btn_bg.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/font_using_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_item_read_bg.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/item_read_bg.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_refresh.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_line_spacing4.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_line_spacing4.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_cursor_left.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_cursor_left.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_replace.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_replace.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_qq_group.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_qq_group.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_setting_btn_bg2.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xxxhdpi/setting_btn_bg2.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_book_last.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_book_last.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/menu_menu_search.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/menu/menu_search.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/anim_slide_bottom_in.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/anim/slide_bottom_in.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_add.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_play_24dp.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_play_24dp.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_web_outline.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_web_outline.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_listview_book_store_book_item.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/listview_book_store_book_item.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_menu_book_local.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/menu_book_local.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_listview_book_type_item.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/listview_book_type_item.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_check.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_check.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_source.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_source.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_setting_btn_bg_color.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xxxhdpi/setting_btn_bg_color.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_donate.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_donate.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_view_net_error.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/view_net_error.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_item_source_edit.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/item_source_edit.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_cry_face.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_cry_face.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_mine.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_mine.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_fragment_proxy_setting.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/fragment_proxy_setting.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/menu_menu_subscribe_source.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/menu/menu_subscribe_source.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_plus.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_login_btn_selector.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/login_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/menu_menu_book_detail.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/menu/menu_book_detail.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_setting_blue_deep_style_btn_bg.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/setting_blue_deep_style_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_fragment_update.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/fragment_update.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/color_selector_cb_file.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/color/selector_cb_file.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_suggest_item_bg.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xxxhdpi/suggest_item_bg.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_gridview_book_item.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/gridview_book_item.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_fonts.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_fonts.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_cb_file_selected.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/ic_cb_file_selected.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_back_last.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/ic_back_last.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_avatar_fycz.jpg.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/mipmap-xhdpi/ic_avatar_fycz.jpg"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_spinner.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/spinner.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/mipmap-xhdpi_default_cover.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/mipmap-xhdpi/default_cover.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_more_setting.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_more_setting.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_line_spacing2.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_line_spacing2.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_arrange.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_arrange.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_seekbar_bg.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/seekbar_bg.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_shape_corner_blue.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/shape_corner_blue.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_auth_email.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_auth_email.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/menu_menu_debug.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/menu/menu_debug.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_edit_text.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/edit_text.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_re_seg.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_re_seg.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_timer.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_timer.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_down_up.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/mipmap-xxxhdpi/down_up.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_image_view_bg1.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xxxhdpi/image_view_bg1.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/anim_push_bottom_in.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/anim/push_bottom_in.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/xml_shortcuts.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/xml/shortcuts.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_history.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_history.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_view_loading.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/view_loading.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_setting_protect_eye_style_btn_bg.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/setting_protect_eye_style_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_user.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_user.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_cathe.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_cathe.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_fingerprint_dialog.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/fingerprint_dialog.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_selector_menu_bg.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/selector_menu_bg.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_aa.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_aa.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_page_mode.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_page_mode.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_line_spacing3.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_line_spacing3.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_search_word.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_search_word.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_dialog_input.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/dialog_input.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_question.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_question.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_launcher.jpg.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_launcher.jpg"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_copy.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_copy.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_feedback.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_fragment_file_category.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/fragment_file_category.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_view_quilt.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_view_quilt.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/menu_menu_view_search.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/menu/menu_view_search.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/anim_fade_out.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_listview_search_history_item.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/listview_search_history_item.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_item_category_normal.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/ic_item_category_normal.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_clear.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_clear.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/xml_file_paths.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_selector_category_load.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/selector_category_load.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_change.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_change.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_exit.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_exit.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_layout_book_detail_header.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/layout_book_detail_header.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_dialog_loading.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/dialog_loading.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_layout_about_content.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/layout_about_content.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_dialog_audio_player.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/dialog_audio_player.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_read_book.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_read_book.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_fp_40px.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/ic_fp_40px.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_search_et_backcolor.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/search_et_backcolor.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_volume_up.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_volume_up.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_setting_breen_style_btn_bg.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/setting_breen_style_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_setting_btn_bg.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xxxhdpi/setting_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/menu_menu_search_word.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/menu/menu_search_word.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_setting_style_breen_circle_selected.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/setting_style_breen_circle_selected.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_link.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_link.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_editview_shape.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/editview_shape.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_folder.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_folder.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_qrcode_capture.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_qrcode_capture.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_fragment_catalog.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/fragment_catalog.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_dialog_book_source.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/dialog_book_source.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_find_book.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_find_book.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_social_github.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_social_github.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_source_login.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_source_login.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_setting_style_leather_circle.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/setting_style_leather_circle.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_tag_green_shape.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/tag_green_shape.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_home.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/anim_slide_top_out.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/anim/slide_top_out.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_gridview_suggestion_item.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/gridview_suggestion_item.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/anim_fragment_enter_pop.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/anim/fragment_enter_pop.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_edit.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_image_view_bg2.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xxxhdpi/image_view_bg2.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_setting_common_style_btn_bg.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/setting_common_style_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_gridview_book_detailed_item.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/gridview_book_detailed_item.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_setting_style_protect_eye_circle.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/setting_style_protect_eye_circle.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_theme.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_theme.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_search2.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_search2.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_setting_btn_bg1.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xxxhdpi/setting_btn_bg1.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_listen_book.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_listen_book.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/menu_main_bnv.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/menu/main_bnv.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_bookmark.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_bookmark.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/menu_menu_source_edit.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/menu/menu_source_edit.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_backup.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_backup.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/anim_slide_top_in.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/anim/slide_top_in.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/mipmap-xhdpi_thumb.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/mipmap-xhdpi/thumb.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_tag_red_shape.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/tag_red_shape.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_setting_style_leather_circle_selected.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/setting_style_leather_circle_selected.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_wc.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_wc.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_fragment_find.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/fragment_find.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_setting_circle2.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xxxhdpi/setting_circle2.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_export.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_export.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_source_edit.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_source_edit.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_user_info.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_user_info.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_setting_style_common_circle_selected.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/setting_style_common_circle_selected.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_item_local_source.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/item_local_source.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_stop.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_stop.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_day_mode.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_day_mode.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_disclaimer.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_disclaimer.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_author.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_author.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/menu_menu_read.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/menu/menu_read.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_remove.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_remove.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_read_record.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_read_record.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_bookstore.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_bookstore.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_history_black_24dp.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-mdpi/ic_history_black_24dp.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_cross.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_cross.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_fastscroll_bubble.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/fastscroll_bubble.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_no_data.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/ic_no_data.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_selector_cb_file.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/selector_cb_file.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_play.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_play.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_setting_style_blue_deep_circle_selected.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/setting_style_blue_deep_circle_selected.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_history_black_24dp.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xxhdpi/ic_history_black_24dp.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/menu_webdav_help.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/menu/webdav_help.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_item_category_download.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/ic_item_category_download.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_fragment_import_source.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/fragment_import_source.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_menu_auto_page.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/menu_auto_page.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/color_selector_bn.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/color/selector_bn.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_menu_brightness_eye.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/menu_brightness_eye.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_update.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_update.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_next.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_next.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_search_word.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_search_word.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/color_selector_btn_file_add.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/color/selector_btn_file_add.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_launcher_new.jpg.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_launcher_new.jpg"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_icon_image.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/icon_image.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_dialog_number_picker.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/dialog_number_picker.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_dialog_hour_minute_picker.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/dialog_hour_minute_picker.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_cursor_right.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_cursor_right.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_fastscroll_track.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/fastscroll_track.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/xml_network_security_config.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_group_manager.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_group_manager.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_reverse.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_reverse.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_replace_rule.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_replace_rule.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/menu_menu_book_detail_local.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/menu/menu_book_detail_local.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_source_debug.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_source_debug.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_about.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_about.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_dialog_full_webview.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/dialog_full_webview.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_read.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/mipmap-xhdpi/ic_read.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_down_buttom.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/mipmap-xxxhdpi/down_buttom.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_shape_dialog_buttom.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/shape_dialog_buttom.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_group.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_group.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_read.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_read.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_ad_setting.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_ad_setting.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_listview_font_item.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/listview_font_item.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_filter.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_filter.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_vector_book_read.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_vector_book_read.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/menu_menu_qr_code_scan.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/menu/menu_qr_code_scan.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_view_fastscroller.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/view_fastscroller.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_fragment_subscribe_source.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/fragment_subscribe_source.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_shape_confirm.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/shape_confirm.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_setting_style_protect_eye_circle_selected.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/setting_style_protect_eye_circle_selected.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_top.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_top.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_feedback.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_feedback.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_cb_file_normal.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable-xhdpi/ic_cb_file_normal.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_delete.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_menu_book.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/menu_book.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_scroll_title_indicator.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/scroll_title_indicator.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_debug.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_debug.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_fragment_find_book_1.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/fragment_find_book_1.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_upload.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_upload.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/mipmap-xhdpi_clear.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/mipmap-xhdpi/clear.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_fragment_mine.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/fragment_mine.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_hv_screen.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_hv_screen.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_item_subscribe_source.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/item_subscribe_source.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_shape_blue.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/shape_blue.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_yun.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_yun.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_item_change_source.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/item_change_source.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_right_arrow.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_right_arrow.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_shape_corner_black.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/shape_corner_black.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_activity_catalog.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/activity_catalog.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_listview_chapter_title_item.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/listview_chapter_title_item.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_ic_sun.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/ic_sun.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_item_file.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/item_file.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/drawable_selector_category_unload.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/drawable/selector_category_unload.xml"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/mipmap-xhdpi_r6.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/mipmap-xhdpi/r6.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/build/intermediates/res/merged/debug/layout_menu_cumtomize_layout.xml.flat",
+        "source": "/Users/hongyuan3/Desktop/MVP/MVP/FYReader-dev/app/src/main/res/layout/menu_cumtomize_layout.xml"
+    }
+]

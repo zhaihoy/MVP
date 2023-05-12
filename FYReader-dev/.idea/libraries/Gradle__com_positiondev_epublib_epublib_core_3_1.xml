@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.positiondev.epublib:epublib-core:3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.positiondev.epublib/epublib-core/3.1/73b6903e758fc51a1226b44f6cf015df3bff5d1f/epublib-core-3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.positiondev.epublib/epublib-core/3.1/686d1d67f7511c0ede1006711ac207244a6076f7/epublib-core-3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.positiondev.epublib/epublib-core/3.1/7183be8185889b00c8d44fa692dec56bf3f8bfc3/epublib-core-3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./DialogX/libs/DialogXInterface.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DialogX/libs/DialogXInterface.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
