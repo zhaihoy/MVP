@@ -44,7 +44,7 @@ import zhy.hongyuan.util.help.StringHelper;
 import zhy.hongyuan.webapi.crawler.base.BaseFindCrawler;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/7/21 22:25
  */
 public class QiDianFindCrawler extends BaseFindCrawler {

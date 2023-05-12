@@ -19,7 +19,7 @@
 package zhy.hongyuan.entity.lanzou
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/1/22 20:15
  */
 data class LanZouParseBean(

@@ -30,7 +30,7 @@ import zhy.hongyuan.base.adapter.ViewHolderImpl
 import zhy.hongyuan.entity.sourceedit.EditEntity
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/2/9 10:25
  */
 class SourceEditHolder : ViewHolderImpl<EditEntity>() {

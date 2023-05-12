@@ -34,7 +34,7 @@ import zhy.hongyuan.util.utils.GSON
 import zhy.hongyuan.util.utils.fromJsonObject
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/3/29 11:59
  */
 class AppLoadImpl : IAppLoader {

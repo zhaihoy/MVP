@@ -35,7 +35,7 @@ import zhy.hongyuan.util.SharedPreUtils;
 import zhy.hongyuan.util.ToastUtils;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/1/8 23:58
  */
 public class BookGroupDialog {

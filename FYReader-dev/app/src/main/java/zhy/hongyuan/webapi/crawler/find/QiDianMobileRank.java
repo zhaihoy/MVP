@@ -50,7 +50,7 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/9/16 22:01
  */
 public class QiDianMobileRank extends FindCrawler3 {

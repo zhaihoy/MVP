@@ -30,7 +30,7 @@ import androidx.viewpager.widget.ViewPager;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/2/9 10:08
  */
 

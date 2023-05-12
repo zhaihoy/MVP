@@ -46,7 +46,7 @@ import zhy.hongyuan.ui.adapter.holder.SearchWord1Holder
 import zhy.hongyuan.widget.page.PageLoader
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/12/5 19:57
  */
 class SearchWordActivity : BaseActivity<ActivitySearchWordBinding>() {

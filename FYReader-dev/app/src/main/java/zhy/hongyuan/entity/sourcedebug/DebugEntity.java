@@ -24,7 +24,7 @@ import android.os.Parcelable;
 import zhy.hongyuan.greendao.entity.rule.BookSource;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/2/12 19:35
  */
 public class DebugEntity implements Parcelable {

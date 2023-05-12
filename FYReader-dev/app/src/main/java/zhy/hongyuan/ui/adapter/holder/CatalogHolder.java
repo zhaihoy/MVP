@@ -29,7 +29,7 @@ import zhy.hongyuan.greendao.entity.Chapter;
 import zhy.hongyuan.greendao.service.ChapterService;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/8/17 15:07
  */
 public class CatalogHolder extends ViewHolderImpl<Chapter> {

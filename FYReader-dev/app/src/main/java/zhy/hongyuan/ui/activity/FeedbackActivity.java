@@ -35,7 +35,7 @@ import xyz.fycz.myreader.databinding.ActivityFeedbackBinding;
 import zhy.hongyuan.ui.dialog.DialogCreator;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/12/24 20:48
  */
 public class FeedbackActivity extends BaseActivity<ActivityFeedbackBinding> {

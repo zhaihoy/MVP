@@ -47,7 +47,7 @@ import zhy.hongyuan.util.utils.RxUtils
 import zhy.hongyuan.webapi.LanZouApi
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/3/3 9:56
  */
 class SourceSubscribeActivity : BaseActivity<ActivitySourceSubscribeBinding>() {
@@ -92,36 +92,40 @@ class SourceSubscribeActivity : BaseActivity<ActivitySourceSubscribeBinding>() {
     }
 
     private fun loadFiles() {
-        LanZouApi.getFoldFiles(URLCONST.SUB_SOURCE_URL, page, "bx8q")
+        LanZouApi.getFoldFiles(URLCONST.SUB_SOURCE_URL, page, "8e46")
             .onSuccess {
                 if (it != null) {
-                    if (page == 1) {
-                        if (it.isEmpty()) {
-                            binding.loading.showEmpty()
-                        } else {
-                            binding.loading.showFinish()
-                            fileAdapter.refreshItems(lanZouFile2SubscribeFile(it))
-                            if (it.size < 50) {
-                                binding.srlFiles.finishRefreshWithNoMoreData()
-                            } else {
-                                binding.srlFiles.finishRefresh()
-                            }
-                        }
-                    } else {
-                        fileAdapter.addItems(lanZouFile2SubscribeFile(it))
-                        if (it.size < 50) {
-                            binding.srlFiles.finishLoadMoreWithNoMoreData()
-                        } else {
-                            binding.srlFiles.finishLoadMore()
-                        }
-                    }
-                    page++
+                    setData(it)
                 } else {
                     binding.loading.showError()
                 }
             }.onError {
                 ToastUtils.showError("" + it.localizedMessage)
             }
+    }
+
+    private fun setData(it: List<LanZouFile>) {
+        if (page == 1) {
+            if (it.isEmpty()) {
+                binding.loading.showEmpty()
+            } else {
+                binding.loading.showFinish()
+                fileAdapter.refreshItems(lanZouFile2SubscribeFile(it))
+                if (it.size < 50) {
+                    binding.srlFiles.finishRefreshWithNoMoreData()
+                } else {
+                    binding.srlFiles.finishRefresh()
+                }
+            }
+        } else {
+            fileAdapter.addItems(lanZouFile2SubscribeFile(it))
+            if (it.size < 50) {
+                binding.srlFiles.finishLoadMoreWithNoMoreData()
+            } else {
+                binding.srlFiles.finishLoadMore()
+            }
+        }
+        page++
     }
 
     override fun initClick() {

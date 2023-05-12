@@ -32,7 +32,7 @@ import zhy.hongyuan.greendao.entity.search.SearchWord1
 import zhy.hongyuan.greendao.entity.search.SearchWord2
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/12/5 20:28
  */
 class SearchWord1Holder(var activity: AppCompatActivity) : ViewHolderImpl<SearchWord1>() {

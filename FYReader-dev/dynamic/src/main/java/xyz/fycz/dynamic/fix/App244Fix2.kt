@@ -26,7 +26,7 @@ import zhy.hongyuan.webapi.crawler.ReadCrawlerUtil
 import zhy.hongyuan.webapi.crawler.base.ReadCrawler
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/5/11 9:31
  */
 @AppFix([243, 244], ["修复搜索时当前分组不存在时无法搜索的问题"], "2022-05-11")

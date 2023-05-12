@@ -34,7 +34,7 @@ import zhy.hongyuan.util.help.RelativeDateHelp;
 import zhy.hongyuan.widget.CoverImageView;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/6/1 19:31
  */
 public class ReadRecordHolder extends ViewHolderImpl<ReadRecord> {

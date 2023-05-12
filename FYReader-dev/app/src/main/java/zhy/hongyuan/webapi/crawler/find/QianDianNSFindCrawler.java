@@ -19,7 +19,7 @@
 package zhy.hongyuan.webapi.crawler.find;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/7/23 12:15
  */
 public class QianDianNSFindCrawler extends QiDianFindCrawler {

@@ -19,7 +19,7 @@
 package zhy.hongyuan.greendao.entity.search
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/12/5 20:18
  */
 data class SearchWord1(

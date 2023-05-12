@@ -29,7 +29,7 @@ import zhy.hongyuan.webapi.crawler.base.BaseReadCrawler;
 import zhy.hongyuan.webapi.crawler.base.BookInfoCrawler;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/5/14 10:55
  */
 public class ThirdCrawler extends BaseReadCrawler implements BookInfoCrawler {

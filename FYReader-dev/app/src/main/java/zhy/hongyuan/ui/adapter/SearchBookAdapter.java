@@ -38,7 +38,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/10/2 10:08
  */
 public class SearchBookAdapter extends BaseListAdapter<SearchBookBean> {

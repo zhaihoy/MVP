@@ -39,7 +39,7 @@ import zhy.hongyuan.greendao.service.CookieStore;
 import zhy.hongyuan.util.ToastUtils;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/5/15 10:43
  */
 public class SourceLoginActivity extends BaseActivity<ActivitySourceLoginBinding> {

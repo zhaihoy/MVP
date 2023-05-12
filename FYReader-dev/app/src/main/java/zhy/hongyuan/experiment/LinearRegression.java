@@ -29,7 +29,7 @@ import java.util.Map;
 /**
  * 使用最小二乘法实现线性回归预测
  *
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/12/4 12:15
  */
 public class LinearRegression {

@@ -21,7 +21,7 @@ package zhy.hongyuan.webapi.crawler.source
 import zhy.hongyuan.greendao.entity.rule.BookSource
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/1/20 12:23
  */
 class Third3Crawler(source: BookSource) : ThirdCrawler(source) {

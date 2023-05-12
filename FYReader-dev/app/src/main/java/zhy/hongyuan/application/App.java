@@ -60,7 +60,11 @@ import zhy.hongyuan.entity.Setting;
 import zhy.hongyuan.model.user.User;
 import zhy.hongyuan.model.user.UserService;
 import zhy.hongyuan.util.SharedPreUtils;
+import zhy.hongyuan.util.ToastUtils;
 import zhy.hongyuan.util.help.SSLSocketClient;
+import zhy.hongyuan.util.help.StringHelper;
+import zhy.hongyuan.util.utils.NetworkUtils;
+import zhy.hongyuan.util.utils.OkHttpUtils;
 import zhy.hongyuan.util.utils.PluginUtils;
 
 
@@ -261,78 +265,78 @@ public class App extends Application {
      */
     //todo 暂时不行
     public static void checkVersionByServer(final AppCompatActivity activity, final boolean isManualCheck) {
-//        App.getApplication().newThread(() -> {
-//            try {
-//                String content = OkHttpUtils.getUpdateInfo();
-//                if (StringHelper.isEmpty(content)) {
-//                    content = OkHttpUtils.getBakUpdateInfo();
-//                    if (StringHelper.isEmpty(content)) {
-//                        if (isManualCheck || NetworkUtils.isNetWorkAvailable()) {
-//                            ToastUtils.showError("检查更新失败！");
-//                        }
-//                        return;
-//                    }
-//                }
-//                String[] contents = content.split(";");
-//                int newestVersion = 0;
-//                String updateContent = "";
-//                String downloadLink = null;
-//                boolean isForceUpdate = false;
-//                int forceUpdateVersion;
-//                StringBuilder s = new StringBuilder();
-//                newestVersion = Integer.parseInt(contents[0].substring(contents[0].indexOf(":") + 1));
-//                isForceUpdate = Boolean.parseBoolean(contents[1].substring(contents[1].indexOf(":") + 1));
-//                downloadLink = contents[2].substring(contents[2].indexOf(":") + 1).trim();
-//                updateContent = contents[3].substring(contents[3].indexOf(":") + 1);
-//                SharedPreUtils.getInstance().putString(getmContext().getString(R.string.lanzousKeyStart), contents[4].substring(contents[4].indexOf(":") + 1));
-//
-//                String newSplashTime = contents[5].substring(contents[5].indexOf(":") + 1);
-//                String oldSplashTime = SharedPreUtils.getInstance().getString("splashTime");
-//                SharedPreUtils.getInstance().putBoolean("needUdSI", !oldSplashTime.equals(newSplashTime));
-//                SharedPreUtils.getInstance().putString("splashTime", contents[5].substring(contents[5].indexOf(":") + 1));
-//                SharedPreUtils.getInstance().putString("splashImageUrl", contents[6].substring(contents[6].indexOf(":") + 1));
-//                SharedPreUtils.getInstance().putString("splashImageMD5", contents[7].substring(contents[7].indexOf(":") + 1));
-//
-//                forceUpdateVersion = Integer.parseInt(contents[8].substring(contents[8].indexOf(":") + 1));
-//                SharedPreUtils.getInstance().putInt("forceUpdateVersion", forceUpdateVersion);
-//
-//                String domain = contents[9].substring(contents[9].indexOf(":") + 1);
-//                SharedPreUtils.getInstance().putString("domain", domain);
-//                String pluginConfigUrl = contents[10].substring(contents[10].indexOf(":") + 1);
-//                SharedPreUtils.getInstance().putString("pluginConfigUrl", pluginConfigUrl);
-//                int versionCode = getVersionCode();
-//
-//                isForceUpdate = isForceUpdate && forceUpdateVersion > versionCode;
-//                if (!StringHelper.isEmpty(downloadLink)) {
-//                    SharedPreUtils.getInstance().putString(getmContext().getString(R.string.downloadLink), downloadLink);
-//                } else {
-//                    SharedPreUtils.getInstance().putString(getmContext().getString(R.string.downloadLink), URLCONST.APP_DIR_URL);
-//                }
-//                String[] updateContents = updateContent.split("/");
-//                for (String string : updateContents) {
-//                    s.append(string);
-//                    s.append("<br>");
-//                }
-//                Log.i("检查更新，最新版本", newestVersion + "");
-//                if (newestVersion > versionCode) {
-//                    Setting setting = SysManager.getSetting();
-//                    if (isManualCheck || setting.getNewestVersionCode() < newestVersion || isForceUpdate) {
-//                        setting.setNewestVersionCode(newestVersion);
-//                        SysManager.saveSetting(setting);
-//                        getApplication().updateApp2(activity, downloadLink, newestVersion, s.toString(), isForceUpdate
-//                        );
-//                    }
-//                } else if (isManualCheck) {
-//                    ToastUtils.showSuccess("已经是最新版本！");
-//                }
-//            } catch (Exception e) {
-//                e.printStackTrace();
-//                Log.e("检查更新失败！", "" + e.getLocalizedMessage());
-//                if (isManualCheck || NetworkUtils.isNetWorkAvailable()) {
-//                    ToastUtils.showError("检查更新失败！");
-//                }
-//            }
-//        });
+        App.getApplication().newThread(() -> {
+            try {
+                String content = OkHttpUtils.getUpdateInfo();
+                if (StringHelper.isEmpty(content)) {
+                    content = OkHttpUtils.getBakUpdateInfo();
+                    if (StringHelper.isEmpty(content)) {
+                        if (isManualCheck || NetworkUtils.isNetWorkAvailable()) {
+                            ToastUtils.showError("检查更新失败！");
+                        }
+                        return;
+                    }
+                }
+                String[] contents = content.split(";");
+                int newestVersion = 0;
+                String updateContent = "";
+                String downloadLink = null;
+                boolean isForceUpdate = false;
+                int forceUpdateVersion;
+                StringBuilder s = new StringBuilder();
+                newestVersion = Integer.parseInt(contents[0].substring(contents[0].indexOf(":") + 1));
+                isForceUpdate = Boolean.parseBoolean(contents[1].substring(contents[1].indexOf(":") + 1));
+                downloadLink = contents[2].substring(contents[2].indexOf(":") + 1).trim();
+                updateContent = contents[3].substring(contents[3].indexOf(":") + 1);
+                SharedPreUtils.getInstance().putString(getmContext().getString(R.string.lanzousKeyStart), contents[4].substring(contents[4].indexOf(":") + 1));
+
+                String newSplashTime = contents[5].substring(contents[5].indexOf(":") + 1);
+                String oldSplashTime = SharedPreUtils.getInstance().getString("splashTime");
+                SharedPreUtils.getInstance().putBoolean("needUdSI", !oldSplashTime.equals(newSplashTime));
+                SharedPreUtils.getInstance().putString("splashTime", contents[5].substring(contents[5].indexOf(":") + 1));
+                SharedPreUtils.getInstance().putString("splashImageUrl", contents[6].substring(contents[6].indexOf(":") + 1));
+                SharedPreUtils.getInstance().putString("splashImageMD5", contents[7].substring(contents[7].indexOf(":") + 1));
+
+                forceUpdateVersion = Integer.parseInt(contents[8].substring(contents[8].indexOf(":") + 1));
+                SharedPreUtils.getInstance().putInt("forceUpdateVersion", forceUpdateVersion);
+
+                String domain = contents[9].substring(contents[9].indexOf(":") + 1);
+                SharedPreUtils.getInstance().putString("domain", domain);
+                String pluginConfigUrl = contents[10].substring(contents[10].indexOf(":") + 1);
+                SharedPreUtils.getInstance().putString("pluginConfigUrl", pluginConfigUrl);
+                int versionCode = getVersionCode();
+
+                isForceUpdate = isForceUpdate && forceUpdateVersion > versionCode;
+                if (!StringHelper.isEmpty(downloadLink)) {
+                    SharedPreUtils.getInstance().putString(getmContext().getString(R.string.downloadLink), downloadLink);
+                } else {
+                    SharedPreUtils.getInstance().putString(getmContext().getString(R.string.downloadLink), URLCONST.APP_DIR_URL);
+                }
+                String[] updateContents = updateContent.split("/");
+                for (String string : updateContents) {
+                    s.append(string);
+                    s.append("<br>");
+                }
+                Log.i("检查更新，最新版本", newestVersion + "");
+                if (newestVersion > versionCode) {
+                    Setting setting = SysManager.getSetting();
+                    if (isManualCheck || setting.getNewestVersionCode() < newestVersion || isForceUpdate) {
+                        setting.setNewestVersionCode(newestVersion);
+                        SysManager.saveSetting(setting);
+                        getApplication().updateApp2(activity, downloadLink, newestVersion, s.toString(), isForceUpdate
+                        );
+                    }
+                } else if (isManualCheck) {
+                    ToastUtils.showSuccess("已经是最新版本！");
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+                Log.e("检查更新失败！", "" + e.getLocalizedMessage());
+                if (isManualCheck || NetworkUtils.isNetWorkAvailable()) {
+                    ToastUtils.showError("检查更新失败！");
+                }
+            }
+        });
     }
 
 

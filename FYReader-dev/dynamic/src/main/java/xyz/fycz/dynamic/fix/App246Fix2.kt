@@ -24,7 +24,7 @@ import me.fycz.maple.MethodHook
 import zhy.hongyuan.widget.page.PageView
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/6/23 20:51
  */
 @AppFix([243, 244, 245, 246], ["修复阅读界面概率性闪退的问题"], "2022-06-23")

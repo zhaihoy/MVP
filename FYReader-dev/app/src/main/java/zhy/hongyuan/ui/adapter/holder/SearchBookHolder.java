@@ -50,7 +50,7 @@ import zhy.hongyuan.webapi.crawler.base.ReadCrawler;
 import zhy.hongyuan.widget.CoverImageView;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/10/2 10:10
  */
 public class SearchBookHolder extends ViewHolderImpl<SearchBookBean> {

@@ -30,7 +30,7 @@ import zhy.hongyuan.greendao.entity.rule.SearchRule;
 import zhy.hongyuan.greendao.entity.rule.TocRule;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/5/14 9:24
  */
 public class ThirdSourceUtil {

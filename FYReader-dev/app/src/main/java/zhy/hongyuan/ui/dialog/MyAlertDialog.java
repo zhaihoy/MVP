@@ -67,7 +67,7 @@ import zhy.hongyuan.util.ToastUtils;
 import zhy.hongyuan.util.utils.FingerprintUtils;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/9/20 9:48
  */
 public class MyAlertDialog {

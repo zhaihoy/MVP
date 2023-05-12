@@ -51,7 +51,7 @@ import zhy.hongyuan.util.utils.GsonExtensionsKt;
 import zhy.hongyuan.widget.swipemenu.SwipeMenuLayout;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/1/19 9:54
  */
 public class ReplaceRuleHolder extends ViewHolderImpl<ReplaceRuleBean> {

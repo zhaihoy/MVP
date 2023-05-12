@@ -53,7 +53,7 @@ import zhy.hongyuan.util.utils.NetworkUtils;
 import zhy.hongyuan.util.utils.StringUtils;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/9/18 22:27
  */
 public class LoginActivity extends BaseActivity<ActivityLoginBinding> implements TextWatcher {

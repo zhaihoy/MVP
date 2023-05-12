@@ -58,7 +58,7 @@ import zhy.hongyuan.webapi.crawler.base.FindCrawler3;
 import zhy.hongyuan.webapi.crawler.find.QiDianMobileRank;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/9/13 21:11
  */
 public class BookstoreActivity extends BaseActivity<ActiityBookstoreBinding> {

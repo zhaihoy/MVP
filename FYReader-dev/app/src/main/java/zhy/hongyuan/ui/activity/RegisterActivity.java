@@ -46,7 +46,7 @@ import zhy.hongyuan.util.ToastUtils;
 import zhy.hongyuan.util.utils.StringUtils;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/9/18 22:37
  */
 public class RegisterActivity extends BaseActivity<ActivityRegisterBinding> {

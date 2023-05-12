@@ -32,7 +32,7 @@ import zhy.hongyuan.util.SharedPreAdUtils
 import zhy.hongyuan.util.utils.AdUtils
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/3/31 9:21
  */
 @AppFix([243], ["修复软件无法打开的问题(超时时间为5s)", "修复DIY书源重复显示订阅书源的问题"], "2022-03-31")

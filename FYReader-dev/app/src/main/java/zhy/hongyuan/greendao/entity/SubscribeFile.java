@@ -23,7 +23,7 @@ import org.greenrobot.greendao.annotation.Id;
 import org.greenrobot.greendao.annotation.Generated;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/3/3 14:40
  */
 @Entity

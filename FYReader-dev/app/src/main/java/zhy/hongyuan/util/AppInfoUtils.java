@@ -27,7 +27,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/7/13 15:59
  */
 public class AppInfoUtils {

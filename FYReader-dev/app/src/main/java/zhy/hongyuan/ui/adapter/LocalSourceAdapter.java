@@ -28,7 +28,7 @@ import zhy.hongyuan.greendao.entity.rule.BookSource;
 import zhy.hongyuan.ui.adapter.holder.LocalSourceHolder;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/2/10 18:27
  */
 public class LocalSourceAdapter extends BaseSourceAdapter {

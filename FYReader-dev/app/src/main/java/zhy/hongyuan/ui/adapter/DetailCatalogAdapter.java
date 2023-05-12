@@ -24,7 +24,7 @@ import zhy.hongyuan.greendao.entity.Chapter;
 import zhy.hongyuan.ui.adapter.holder.CatalogHolder;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/8/17 15:06
  */
 public class DetailCatalogAdapter extends BaseListAdapter<Chapter> {

@@ -37,7 +37,7 @@ import zhy.hongyuan.ui.dialog.DialogCreator
 import zhy.hongyuan.util.ToastUtils
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/8/30 9:25
  */
 class BookGroupAdapter(

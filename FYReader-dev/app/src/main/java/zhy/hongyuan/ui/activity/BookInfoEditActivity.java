@@ -43,7 +43,7 @@ import zhy.hongyuan.util.utils.NetworkUtils;
 import zhy.hongyuan.webapi.crawler.ReadCrawlerUtil;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/4/24 15:05
  */
 public class BookInfoEditActivity extends BaseActivity<ActivityBookInfoEditBinding> {

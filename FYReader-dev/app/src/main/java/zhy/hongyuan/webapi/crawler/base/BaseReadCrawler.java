@@ -38,7 +38,7 @@ import zhy.hongyuan.util.utils.NetworkUtils;
 /**
  * 因新版书源使用StrResponse，为了兼容旧版本，书源全部继承自此类
  *
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/5/13 22:29
  */
 public abstract class BaseReadCrawler implements ReadCrawler {

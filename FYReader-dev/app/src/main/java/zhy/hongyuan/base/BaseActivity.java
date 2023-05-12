@@ -48,7 +48,7 @@ import zhy.hongyuan.util.StatusBarUtil;
 import zhy.hongyuan.util.utils.AdUtils;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/8/12 20:02
  */
 public abstract class BaseActivity<VB> extends SwipeBackActivity {

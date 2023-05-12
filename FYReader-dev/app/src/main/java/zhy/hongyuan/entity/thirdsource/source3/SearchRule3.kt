@@ -19,7 +19,7 @@
 package zhy.hongyuan.entity.thirdsource.source3
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/1/20 13:48
  */
 data class SearchRule3(

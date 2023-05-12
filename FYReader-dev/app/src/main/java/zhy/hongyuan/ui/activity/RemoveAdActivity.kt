@@ -30,7 +30,7 @@ import zhy.hongyuan.util.help.RelativeDateHelp
 import zhy.hongyuan.util.utils.AdUtils
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/3/3 17:04
  */
 class RemoveAdActivity : BaseActivity<ActivityRemoveAdBinding>() {

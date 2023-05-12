@@ -35,7 +35,7 @@ import zhy.hongyuan.greendao.entity.Book;
 import zhy.hongyuan.webapi.crawler.base.BaseFindCrawler;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/7/22 17:11
  */
 public class MiaoBiGeFindCrawler extends BaseFindCrawler {

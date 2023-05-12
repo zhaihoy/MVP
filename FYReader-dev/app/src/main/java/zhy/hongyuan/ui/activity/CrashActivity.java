@@ -53,7 +53,7 @@ import zhy.hongyuan.util.ShareUtils;
 import zhy.hongyuan.util.ToastUtils;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/1/22 9:15
  */
 public class CrashActivity extends BaseActivity<ActivityCrashBinding> {

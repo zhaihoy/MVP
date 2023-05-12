@@ -32,7 +32,7 @@ import zhy.hongyuan.ui.adapter.holder.ReplaceRuleHolder;
 import zhy.hongyuan.util.help.StringHelper;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/1/19 9:51
  */
 public class ReplaceRuleAdapter extends BaseListAdapter<ReplaceRuleBean> {

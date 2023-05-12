@@ -24,7 +24,7 @@ import zhy.hongyuan.entity.StrResponse;
 import zhy.hongyuan.greendao.entity.Book;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/5/19 19:50
  */
 public interface BookInfoCrawler {

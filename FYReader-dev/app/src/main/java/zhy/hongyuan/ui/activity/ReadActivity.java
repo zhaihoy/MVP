@@ -142,7 +142,7 @@ import static zhy.hongyuan.util.UriFileUtil.getPath;
 import static zhy.hongyuan.widget.page.PageMode.SCROLL;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/10/21 16:46
  */
 public class ReadActivity extends BaseActivity<ActivityReadBinding> implements ColorPickerDialogListener, View.OnTouchListener {

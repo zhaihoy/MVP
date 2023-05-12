@@ -23,7 +23,7 @@ import zhy.hongyuan.greendao.entity.rule.*
 import kotlin.collections.ArrayList
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/2/9 12:03
  */
 object EditEntityUtil {

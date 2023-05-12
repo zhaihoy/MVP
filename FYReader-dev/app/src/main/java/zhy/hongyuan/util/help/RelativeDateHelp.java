@@ -21,7 +21,7 @@ package zhy.hongyuan.util.help;
 import android.text.TextUtils;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/6/1 19:20
  */
 public class RelativeDateHelp {

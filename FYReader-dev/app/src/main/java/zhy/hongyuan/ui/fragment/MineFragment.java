@@ -81,7 +81,7 @@ import zhy.hongyuan.util.utils.NetworkUtils;
 import zhy.hongyuan.util.utils.RxUtils;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/9/13 13:20
  */
 public class MineFragment extends BaseFragment {

@@ -28,7 +28,7 @@ public class URLCONST {
 
     public static String APP_DIR_URL = LAN_ZOU_URL + "/b00ngso7e";
 
-    public static final String SUB_SOURCE_URL = LAN_ZOU_URL + "/b00pucrch";
+    public static final String SUB_SOURCE_URL = LAN_ZOU_URL + "/b07d6pupc";
 
     //字体下载
     public static final String FONT_DOWNLOAD_URL = "https://novel." + getDefaultDomain() + "/app/fonts/";

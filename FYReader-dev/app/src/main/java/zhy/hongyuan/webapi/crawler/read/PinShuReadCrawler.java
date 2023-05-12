@@ -36,7 +36,7 @@ import zhy.hongyuan.webapi.crawler.base.BookInfoCrawler;
 import java.util.ArrayList;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/5/19 19:50
  * 已失效
  */

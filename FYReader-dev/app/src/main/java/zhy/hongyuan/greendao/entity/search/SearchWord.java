@@ -29,7 +29,7 @@ import zhy.hongyuan.greendao.convert.SearchWord1Convert;
 import org.greenrobot.greendao.annotation.Generated;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/12/7 8:31
  */
 @Entity

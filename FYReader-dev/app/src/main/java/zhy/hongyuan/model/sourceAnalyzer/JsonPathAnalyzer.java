@@ -33,7 +33,7 @@ import java.util.List;
 import zhy.hongyuan.util.help.StringHelper;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/2/15 9:08
  */
 public class JsonPathAnalyzer extends BaseAnalyzer {

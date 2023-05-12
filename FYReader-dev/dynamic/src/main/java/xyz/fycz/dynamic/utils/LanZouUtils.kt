@@ -33,7 +33,7 @@ import java.net.HttpURLConnection
 import java.net.URL
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/1/22 18:50
  */
 object LanZouUtils {

@@ -26,7 +26,7 @@ import zhy.hongyuan.greendao.entity.ReadRecord;
 import zhy.hongyuan.greendao.gen.ReadRecordDao;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/6/1 19:09
  */
 public class ReadRecordService extends BaseService {

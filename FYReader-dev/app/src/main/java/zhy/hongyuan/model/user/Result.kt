@@ -19,7 +19,7 @@
 package zhy.hongyuan.model.user
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/12/9 10:19
  */
 data class Result(

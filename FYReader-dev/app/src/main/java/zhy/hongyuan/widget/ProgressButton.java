@@ -27,7 +27,7 @@ import androidx.appcompat.widget.AppCompatButton;
 import xyz.fycz.myreader.R;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/8/24 21:17
  */
 public class ProgressButton extends AppCompatButton {

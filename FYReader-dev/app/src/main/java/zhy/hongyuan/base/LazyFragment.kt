@@ -27,7 +27,7 @@ import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.disposables.Disposable
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/7/22 11:46
  */
 abstract class LazyFragment : Fragment() {

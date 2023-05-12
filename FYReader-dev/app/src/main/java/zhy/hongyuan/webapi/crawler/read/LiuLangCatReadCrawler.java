@@ -37,7 +37,7 @@ import zhy.hongyuan.model.mulvalmap.ConMVMap;
 import zhy.hongyuan.webapi.crawler.base.BaseReadCrawler;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/11/27 14:09
  */
 public class LiuLangCatReadCrawler extends BaseReadCrawler {

@@ -73,7 +73,7 @@ import zhy.hongyuan.widget.NoScrollViewPager;
 import static androidx.fragment.app.FragmentPagerAdapter.BEHAVIOR_RESUME_ONLY_CURRENT_FRAGMENT;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/9/13 13:03
  */
 public class MainActivity extends BaseActivity<ActivityMainBinding> {
@@ -252,16 +252,16 @@ public class MainActivity extends BaseActivity<ActivityMainBinding> {
     }
 
     private void firstInit() {
-//        SharedPreUtils sru = SharedPreUtils.getInstance();
-//        if (!sru.getBoolean("firstInit")) {
-//            BookSourceManager.initDefaultSources();
-//            DialogCreator.createCommonDialog(this, "首次使用书源订阅提醒",
-//                    "感谢您选择熊猫读书 ，当前应用没有任何书源，" +
-//                            "建议前往书源订阅界面获取书源(也可自行前往书源管理导入书源)，是否前往订阅书源？",
-//                    false, (dialog, which) -> startActivity(new Intent(this, SourceSubscribeActivity.class)),
-//                    null);
-//            sru.putBoolean("firstInit", true);
-//        }
+        SharedPreUtils sru = SharedPreUtils.getInstance();
+        if (!sru.getBoolean("firstInit")) {
+            BookSourceManager.initDefaultSources();
+            DialogCreator.createCommonDialog(this, "首次使用书源订阅提醒",
+                    "感谢您选择熊猫读书 ，当前应用没有任何书源，" +
+                            "建议前往书源订阅界面获取书源(也可自行前往书源管理导入书源)，是否前往订阅书源？",
+                    false, (dialog, which) -> startActivity(new Intent(this, SourceSubscribeActivity.class)),
+                    null);
+            sru.putBoolean("firstInit", true);
+        }
     }
 
     private void reLoadFragment() {

@@ -36,7 +36,7 @@ import zhy.hongyuan.util.utils.FileUtils
 import zhy.hongyuan.util.utils.ScreenUtils
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/6/3 15:34
  */
 @AppFix([243, 244, 245, 246, 250], ["[设置-缓存设置]新增清除广告文件"], "2022-06-03")

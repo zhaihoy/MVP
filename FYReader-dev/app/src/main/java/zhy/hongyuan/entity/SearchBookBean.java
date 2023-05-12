@@ -21,7 +21,7 @@ package zhy.hongyuan.entity;
 import java.util.Objects;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/5/19 9:19
  */
 public class SearchBookBean {

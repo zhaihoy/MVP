@@ -41,7 +41,7 @@ import zhy.hongyuan.util.utils.AdUtils;
 import zhy.hongyuan.util.utils.FileUtils;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/4/23 12:51
  */
 public class AdSettingActivity extends BaseActivity<ActivityAdSettingBinding> {

@@ -36,7 +36,7 @@ import zhy.hongyuan.ui.dialog.BookGroupDialog
 import zhy.hongyuan.util.SharedPreUtils
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/8/30 12:48
  */
 class GroupManagerActivity : BaseActivity<ActivityGroupManagerBinding>() {

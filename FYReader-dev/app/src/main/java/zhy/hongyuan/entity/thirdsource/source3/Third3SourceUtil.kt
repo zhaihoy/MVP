@@ -22,7 +22,7 @@ import zhy.hongyuan.common.APPCONST
 import zhy.hongyuan.greendao.entity.rule.*
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/1/20 13:51
  */
 object Third3SourceUtil {

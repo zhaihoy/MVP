@@ -45,7 +45,7 @@ import zhy.hongyuan.ui.activity.RestartActivity;
 import zhy.hongyuan.util.utils.FileUtils;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/5/16 11:01
  */
 public final class CrashHandler implements Thread.UncaughtExceptionHandler {

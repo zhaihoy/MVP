@@ -24,7 +24,7 @@ import android.content.Intent;
 import zhy.hongyuan.application.App;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/8/14 22:04
  */
 public class NotificationClickReceiver extends BroadcastReceiver {

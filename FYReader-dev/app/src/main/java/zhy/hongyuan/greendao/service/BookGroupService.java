@@ -31,7 +31,7 @@ import zhy.hongyuan.util.help.StringHelper;
 import java.util.List;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/9/26 12:14
  */
 public class BookGroupService extends BaseService{

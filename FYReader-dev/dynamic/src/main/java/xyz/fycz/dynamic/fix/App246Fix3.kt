@@ -44,7 +44,7 @@ import zhy.hongyuan.util.utils.ScreenUtils
 import zhy.hongyuan.util.utils.fromJsonObject
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/6/28 19:22
  */
 @AppFix([243, 244, 245, 246], ["关于界面新增插件加载结果"], "2022-06-28")

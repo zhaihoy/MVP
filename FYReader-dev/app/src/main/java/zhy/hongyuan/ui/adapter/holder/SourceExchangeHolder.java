@@ -31,7 +31,7 @@ import zhy.hongyuan.model.sourceAnalyzer.BookSourceManager;
 import zhy.hongyuan.ui.dialog.SourceExchangeDialog;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/9/30 18:43
  */
 public class SourceExchangeHolder extends ViewHolderImpl<Book> {

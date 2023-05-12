@@ -29,7 +29,7 @@ import zhy.hongyuan.base.adapter.ViewHolderImpl
 import zhy.hongyuan.greendao.entity.search.SearchWord2
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/12/5 20:46
  */
 class SearchWord2Holder : ViewHolderImpl<SearchWord2>() {

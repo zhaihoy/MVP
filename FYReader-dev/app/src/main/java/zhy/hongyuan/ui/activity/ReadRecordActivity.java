@@ -52,7 +52,7 @@ import zhy.hongyuan.util.help.RelativeDateHelp;
 import zhy.hongyuan.util.utils.RxUtils;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/6/1 19:07
  */
 public class ReadRecordActivity extends BaseActivity<ActivityReadRecordBinding> {

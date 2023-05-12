@@ -24,7 +24,7 @@ import zhy.hongyuan.greendao.entity.rule.ContentRule;
 import zhy.hongyuan.util.utils.GsonExtensionsKt;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/2/8 18:27
  */
 public class ContentRuleConvert implements PropertyConverter<ContentRule, String> {

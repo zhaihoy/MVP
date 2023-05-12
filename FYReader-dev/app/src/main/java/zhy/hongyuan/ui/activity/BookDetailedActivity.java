@@ -85,7 +85,7 @@ import zhy.hongyuan.webapi.crawler.base.BookInfoCrawler;
 import zhy.hongyuan.webapi.crawler.base.ReadCrawler;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/8/17 11:39
  */
 public class BookDetailedActivity extends BaseActivity<ActivityBookDetailBinding> {

@@ -23,7 +23,7 @@ import androidx.annotation.NonNull;
 import zhy.hongyuan.util.utils.GsonExtensionsKt;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/2/17 18:56
  */
 public class AdConfig {

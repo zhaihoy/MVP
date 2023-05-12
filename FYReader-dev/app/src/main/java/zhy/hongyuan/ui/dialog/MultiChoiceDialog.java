@@ -25,7 +25,7 @@ import android.widget.ListView;
 import androidx.appcompat.app.AlertDialog;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/8/29 21:08
  */
 public class MultiChoiceDialog {

@@ -19,7 +19,7 @@
 package zhy.hongyuan.entity
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/3/29 14:55
  */
 data class PluginConfig(

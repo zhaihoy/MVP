@@ -19,7 +19,7 @@
 package zhy.hongyuan.entity.ad
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/3/3 15:00
  */
 data class AdBean(

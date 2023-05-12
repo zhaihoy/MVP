@@ -21,7 +21,7 @@ package zhy.hongyuan.greendao.entity;
 import org.greenrobot.greendao.annotation.*;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/7/21 16:02
  * 书签
  */

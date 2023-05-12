@@ -38,7 +38,7 @@ import zhy.hongyuan.webapi.crawler.base.ReadCrawler;
 import zhy.hongyuan.widget.CoverImageView;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/9/7 7:35
  */
 public class BookStoreBookHolder extends ViewHolderImpl<Book> implements IItemTouchHelperViewHolder {

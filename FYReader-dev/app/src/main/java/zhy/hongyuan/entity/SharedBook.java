@@ -21,7 +21,7 @@ package zhy.hongyuan.entity;
 import zhy.hongyuan.greendao.entity.Book;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/11/29 19:01
  */
 public class SharedBook {

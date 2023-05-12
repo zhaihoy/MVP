@@ -35,7 +35,7 @@ import javax.crypto.SecretKey;
 import zhy.hongyuan.util.ToastUtils;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/1/9 15:13
  */
 public class FingerprintUtils {

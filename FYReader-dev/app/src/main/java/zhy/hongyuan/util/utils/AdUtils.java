@@ -48,7 +48,7 @@ import zhy.hongyuan.util.SharedPreUtils;
 import zhy.hongyuan.util.help.DateHelper;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/4/22 19:00
  */
 public class AdUtils {

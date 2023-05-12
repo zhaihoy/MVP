@@ -65,7 +65,7 @@ import static android.text.TextUtils.isEmpty;
 import static zhy.hongyuan.util.UriFileUtil.getPath;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/1/19 10:02
  */
 public class ReplaceRuleActivity extends BaseActivity<ActivityReplaceRuleBinding> {

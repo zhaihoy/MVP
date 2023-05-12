@@ -23,7 +23,7 @@ import xyz.fycz.dynamic.AppLoadImpl.Companion.spu
 import zhy.hongyuan.util.utils.AdUtils
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/4/25 21:49
  */
 interface AppFixHandle {

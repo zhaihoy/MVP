@@ -27,7 +27,7 @@ import zhy.hongyuan.base.adapter.ViewHolderImpl;
 import zhy.hongyuan.greendao.entity.rule.BookSource;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/7/22 22:27
  */
 public class FindSourceHolder extends ViewHolderImpl<BookSource> {

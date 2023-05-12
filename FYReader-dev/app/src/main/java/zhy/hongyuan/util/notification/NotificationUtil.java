@@ -37,7 +37,7 @@ import zhy.hongyuan.ui.dialog.MyAlertDialog;
 import static zhy.hongyuan.util.notification.NotificationClickReceiver.CANCEL_ACTION;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/8/14 22:07
  */
 public class NotificationUtil {

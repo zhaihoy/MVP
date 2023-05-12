@@ -39,7 +39,7 @@ import zhy.hongyuan.util.utils.OkHttpUtils;
 import zhy.hongyuan.webapi.crawler.base.BaseFindCrawler;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/7/22 17:34
  */
 public class QB5FindCrawler extends BaseFindCrawler {

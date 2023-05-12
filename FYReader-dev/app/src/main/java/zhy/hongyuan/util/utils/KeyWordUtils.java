@@ -25,7 +25,7 @@ import android.text.style.ForegroundColorSpan;
 import android.widget.TextView;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/2/16 10:46
  */
 public class KeyWordUtils {

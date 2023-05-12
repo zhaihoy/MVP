@@ -25,7 +25,7 @@ import zhy.hongyuan.common.URLCONST
 import zhy.hongyuan.webapi.LanZouApi
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/6/21 18:30
  */
 @AppFix([], ["更新订阅书源链接，仅支持v2.4.3版本及以上版本"], "2022-06-21")

@@ -42,7 +42,7 @@ import zhy.hongyuan.widget.BarPercentView
 import java.io.IOException
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/7/1 15:45
  */
 @AppFix([243, 244, 245, 246], ["修复检查更新失败的问题", "修复获取更新链接失败的问题"], "2022-07-02")

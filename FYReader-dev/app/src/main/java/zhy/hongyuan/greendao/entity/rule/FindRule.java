@@ -24,7 +24,7 @@ import android.os.Parcelable;
 import static zhy.hongyuan.util.utils.StringUtils.stringEquals;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/2/10 8:57
  */
 public class FindRule implements Parcelable, BookListRule {

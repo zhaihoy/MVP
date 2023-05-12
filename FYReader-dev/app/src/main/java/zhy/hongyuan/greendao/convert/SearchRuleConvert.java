@@ -24,7 +24,7 @@ import zhy.hongyuan.greendao.entity.rule.SearchRule;
 import zhy.hongyuan.util.utils.GsonExtensionsKt;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/2/8 18:29
  */
 public class SearchRuleConvert implements PropertyConverter<SearchRule, String> {

@@ -86,7 +86,7 @@ import zhy.hongyuan.widget.CoverImageView;
 import zhy.hongyuan.widget.SwitchButton;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/4/19 11:23
  */
 public abstract class BookcaseAdapter extends RecyclerView.Adapter<BookcaseAdapter.ViewHolder> {

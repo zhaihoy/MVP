@@ -24,7 +24,7 @@ import zhy.hongyuan.util.utils.GSON
 import zhy.hongyuan.util.utils.fromJsonArray
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/12/7 8:14
  */
 class SearchWord1Convert: PropertyConverter<List<SearchWord1>, String> {

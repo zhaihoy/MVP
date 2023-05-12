@@ -25,7 +25,7 @@ import android.view.MotionEvent;
 import androidx.viewpager.widget.ViewPager;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/6/2 19:57
  */
 //禁止左右滑动的viewpager

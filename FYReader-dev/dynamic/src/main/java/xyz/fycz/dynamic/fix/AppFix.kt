@@ -19,7 +19,7 @@
 package xyz.fycz.dynamic.fix
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/4/25 22:05
  */
 annotation class AppFix(

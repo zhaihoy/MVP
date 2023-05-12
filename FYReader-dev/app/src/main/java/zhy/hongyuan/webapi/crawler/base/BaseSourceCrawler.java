@@ -46,7 +46,7 @@ import zhy.hongyuan.util.utils.OkHttpUtils;
 import zhy.hongyuan.util.utils.StringUtils;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/2/14 18:28
  */
 public abstract class BaseSourceCrawler extends BaseReadCrawler implements BookInfoCrawler {

@@ -47,7 +47,7 @@ import zhy.hongyuan.widget.DividerItemDecoration
 import java.util.ArrayList
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/3/3 11:36
  */
 class SubscribeSourceFragment(private val sourceActivity: BookSourceActivity) : BaseFragment() {

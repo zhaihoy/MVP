@@ -33,7 +33,7 @@ import xyz.fycz.myreader.databinding.DialogLoadingBinding;
 import zhy.hongyuan.util.ToastUtils;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/4/22 17:19
  */
 public class LoadingDialog extends Dialog {

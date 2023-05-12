@@ -47,7 +47,7 @@ import java.net.URL
 import kotlin.collections.HashMap
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/1/22 18:50
  */
 object LanZouApi {

@@ -32,7 +32,7 @@ import zhy.hongyuan.greendao.entity.rule.BookSource;
 import zhy.hongyuan.util.ToastUtils;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/2/10 18:28
  */
 public class LocalSourceHolder extends ViewHolderImpl<BookSource> {

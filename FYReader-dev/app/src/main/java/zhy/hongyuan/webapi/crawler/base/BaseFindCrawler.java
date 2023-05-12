@@ -27,7 +27,7 @@ import io.reactivex.Observable;
 import zhy.hongyuan.entity.FindKind;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/7/21 20:26
  */
 public abstract class BaseFindCrawler implements FindCrawler {

@@ -19,7 +19,7 @@
 package zhy.hongyuan.entity;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/6/12 20:55
  */
 public class Quotation {

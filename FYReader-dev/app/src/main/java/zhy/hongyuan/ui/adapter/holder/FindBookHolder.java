@@ -52,7 +52,7 @@ import zhy.hongyuan.webapi.crawler.base.ReadCrawler;
 import zhy.hongyuan.widget.CoverImageView;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/7/22 9:34
  */
 public class FindBookHolder extends ViewHolderImpl<Book> {

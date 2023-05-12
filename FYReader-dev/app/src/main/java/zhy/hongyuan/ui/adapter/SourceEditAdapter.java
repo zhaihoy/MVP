@@ -24,7 +24,7 @@ import zhy.hongyuan.entity.sourceedit.EditEntity;
 import zhy.hongyuan.ui.adapter.holder.SourceEditHolder;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/2/9 10:08
  */
 public class SourceEditAdapter extends BaseListAdapter<EditEntity> {

@@ -43,7 +43,7 @@ import zhy.hongyuan.ui.fragment.DIYSourceFragment;
 import zhy.hongyuan.ui.fragment.SubscribeSourceFragment;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/2/10 9:14
  */
 public class BookSourceActivity extends BaseTabActivity<ActivityBooksourceBinding> {

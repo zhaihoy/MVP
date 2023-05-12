@@ -28,7 +28,7 @@ import zhy.hongyuan.base.adapter.BaseListAdapter;
 import zhy.hongyuan.greendao.entity.rule.BookSource;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/2/10 18:25
  */
 public abstract class BaseSourceAdapter extends BaseListAdapter<BookSource> {

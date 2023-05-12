@@ -19,7 +19,7 @@
 package zhy.hongyuan.entity;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/7/21 20:44
  */
 public class FindKind {

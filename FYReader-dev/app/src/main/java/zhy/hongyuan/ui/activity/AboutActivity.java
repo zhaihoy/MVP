@@ -60,7 +60,7 @@ import zhy.hongyuan.util.utils.RxUtils;
 import zhy.hongyuan.webapi.LanZouApi;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/9/18 22:21
  */
 public class AboutActivity extends BaseActivity<ActivityAboutBinding> {

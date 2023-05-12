@@ -40,7 +40,7 @@ import zhy.hongyuan.util.ToastUtils
 import zhy.hongyuan.util.utils.*
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/3/4 18:38
  */
 class UserInfoActivity : BaseActivity<ActivityUserInfoBinding>() {

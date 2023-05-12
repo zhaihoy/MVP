@@ -21,7 +21,7 @@ package xyz.fycz.dynamic;
 import android.content.pm.ApplicationInfo;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/3/29 11:31
  */
 public class AppParam {

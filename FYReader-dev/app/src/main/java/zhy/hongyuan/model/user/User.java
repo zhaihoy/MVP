@@ -23,7 +23,7 @@ import androidx.annotation.NonNull;
 import zhy.hongyuan.util.utils.GsonExtensionsKt;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/7/12 17:35
  */
 public class User {

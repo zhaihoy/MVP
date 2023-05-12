@@ -45,7 +45,7 @@ import zhy.hongyuan.util.ToastUtils
 import java.util.*
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/12/9 15:20
  */
 class AuthEmailActivity : BaseActivity<ActivityAuthEmailBinding>(), SingleObserver<Result> {

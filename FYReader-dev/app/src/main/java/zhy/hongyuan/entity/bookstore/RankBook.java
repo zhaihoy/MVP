@@ -19,7 +19,7 @@
 package zhy.hongyuan.entity.bookstore;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2020/9/16 22:56
  */
 public class RankBook extends QDBook{

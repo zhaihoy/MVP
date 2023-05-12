@@ -28,7 +28,7 @@ import zhy.hongyuan.util.ToastUtils
 
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/1/22 8:57
  */
 class RestartActivity<VB> : BaseActivity<VB>() {

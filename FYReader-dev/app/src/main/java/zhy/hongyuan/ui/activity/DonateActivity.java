@@ -35,7 +35,7 @@ import zhy.hongyuan.util.ToastUtils;
 import zhy.hongyuan.util.utils.AdUtils;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/4/23 21:23
  */
 public class DonateActivity extends BaseActivity<ActivityDonateBinding> {

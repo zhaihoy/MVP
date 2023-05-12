@@ -26,7 +26,7 @@ import zhy.hongyuan.ui.adapter.holder.SubscribeSourceHolder
 import java.util.*
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2022/3/3 12:08
  */
 class SubscribeSourceAdapter(

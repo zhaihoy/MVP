@@ -31,7 +31,7 @@ import zhy.hongyuan.util.help.UTF8BOMFighter;
 import zhy.hongyuan.util.utils.EncodingDetect;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/5/14 12:05
  */
 public class StrResponse {

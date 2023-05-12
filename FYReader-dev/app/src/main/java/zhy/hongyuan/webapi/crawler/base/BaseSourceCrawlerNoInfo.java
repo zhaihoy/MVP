@@ -27,7 +27,7 @@ import zhy.hongyuan.greendao.entity.Chapter;
 import zhy.hongyuan.model.mulvalmap.ConMVMap;
 
 /**
- * @author fengyue
+ * @author  hongyuan
  * @date 2021/2/14 18:28
  */
 public class BaseSourceCrawlerNoInfo extends BaseReadCrawler {
