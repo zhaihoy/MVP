@@ -253,7 +253,7 @@ public class UpdateDialog extends Fragment {
         binding.btBrowser.setVisibility(View.GONE);
         if (apkUrl.endsWith(".apk")) {
             downloadApkNormal(apkUrl);
-        } else if (apkUrl.contains("fycz.lanzou")) {
+        } else if (apkUrl.contains("wwwq.lanzouy.com")) {
             downloadWithLanzous(apkUrl);
         } else {
             downloadApkWithNoFileName(apkUrl);
@@ -273,9 +273,9 @@ public class UpdateDialog extends Fragment {
         path = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS).getPath() + "/熊猫读书 " + version + ".apk";
         File dir = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS);
         if (!dir.exists() && dir.mkdir()) {
-            startDownloadingApk(decodeUrl);
+            startDownloadingApk(apkUrl);
         } else {
-            startDownloadingApk(decodeUrl);
+            startDownloadingApk(apkUrl);
         }
     }
 
@@ -315,7 +315,7 @@ public class UpdateDialog extends Fragment {
 
                     @Override
                     protected void error(BaseDownloadTask task, Throwable e) {
-                        if (debug) Log.e("downloadApk", "error-------" + e.toString());
+                        if (debug) Log.e("downloadApk", "error-------" + e.getMessage());
                         UpdateDialog.this.error();
                     }
 
@@ -379,7 +379,7 @@ public class UpdateDialog extends Fragment {
                     public void onNext(String directUrl) {
                         if (directUrl == null) {
                             error();
-                        }else {
+                        } else {
                             downloadApkNormal(directUrl);
                         }
                     }

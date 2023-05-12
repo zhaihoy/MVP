@@ -59,6 +59,7 @@ import zhy.hongyuan.common.URLCONST;
 import zhy.hongyuan.entity.Setting;
 import zhy.hongyuan.model.user.User;
 import zhy.hongyuan.model.user.UserService;
+import zhy.hongyuan.ui.dialog.UpdateDialog;
 import zhy.hongyuan.util.SharedPreUtils;
 import zhy.hongyuan.util.ToastUtils;
 import zhy.hongyuan.util.help.SSLSocketClient;
@@ -263,7 +264,6 @@ public class App extends Application {
     /**
      * 检查更新
      */
-    //todo 暂时不行
     public static void checkVersionByServer(final AppCompatActivity activity, final boolean isManualCheck) {
         App.getApplication().newThread(() -> {
             try {
@@ -278,6 +278,9 @@ public class App extends Application {
                     }
                 }
                 String[] contents = content.split(";");
+                for (int i = 0; i < contents.length; i++) {
+                    System.out.println("FANGFEI->" + contents[i] + "--position--> " + i);
+                }
                 int newestVersion = 0;
                 String updateContent = "";
                 String downloadLink = null;
@@ -296,17 +299,7 @@ public class App extends Application {
                 SharedPreUtils.getInstance().putString("splashTime", contents[5].substring(contents[5].indexOf(":") + 1));
                 SharedPreUtils.getInstance().putString("splashImageUrl", contents[6].substring(contents[6].indexOf(":") + 1));
                 SharedPreUtils.getInstance().putString("splashImageMD5", contents[7].substring(contents[7].indexOf(":") + 1));
-
-                forceUpdateVersion = Integer.parseInt(contents[8].substring(contents[8].indexOf(":") + 1));
-                SharedPreUtils.getInstance().putInt("forceUpdateVersion", forceUpdateVersion);
-
-                String domain = contents[9].substring(contents[9].indexOf(":") + 1);
-                SharedPreUtils.getInstance().putString("domain", domain);
-                String pluginConfigUrl = contents[10].substring(contents[10].indexOf(":") + 1);
-                SharedPreUtils.getInstance().putString("pluginConfigUrl", pluginConfigUrl);
                 int versionCode = getVersionCode();
-
-                isForceUpdate = isForceUpdate && forceUpdateVersion > versionCode;
                 if (!StringHelper.isEmpty(downloadLink)) {
                     SharedPreUtils.getInstance().putString(getmContext().getString(R.string.downloadLink), downloadLink);
                 } else {
@@ -317,7 +310,6 @@ public class App extends Application {
                     s.append(string);
                     s.append("<br>");
                 }
-                Log.i("检查更新，最新版本", newestVersion + "");
                 if (newestVersion > versionCode) {
                     Setting setting = SysManager.getSetting();
                     if (isManualCheck || setting.getNewestVersionCode() < newestVersion || isForceUpdate) {
@@ -342,22 +334,22 @@ public class App extends Application {
 
     public void updateApp2(final AppCompatActivity activity, final String url, final int versionCode, String message,
                            final boolean isForceUpdate) {
-        //String version = (versionCode / 100 % 10) + "." + (versionCode / 10 % 10) + "." + (versionCode % 10);
-//        int hun = versionCode / 100;
-//        int ten = versionCode / 10 % 10;
-//        int one = versionCode % 10;
-//        String versionName = "v" + hun + "." + ten + "." + one;
-//        UpdateDialog updateDialog = new UpdateDialog.Builder()
-//                .setVersion(versionName)
-//                .setContent(message)
-//                .setCancelable(!isForceUpdate)
-//                .setDownloadUrl(url)
-//                .setContentHtml(true)
-//                .setDebug(App.isDebug())
-//                .build();
-//
-//        updateDialog.showUpdateDialog(activity);
-        //todo 注释掉升级
+        String version = (versionCode / 100 % 10) + "." + (versionCode / 10 % 10) + "." + (versionCode % 10);
+        int hun = versionCode / 100;
+        int ten = versionCode / 10 % 10;
+        int one = versionCode % 10;
+        String versionName = "v" + hun + "." + ten + "." + one;
+        System.out.println("Fangfei >>>" + message);
+        UpdateDialog updateDialog = new UpdateDialog.Builder()
+                .setVersion(versionName)
+                .setContent(message)
+                .setCancelable(!isForceUpdate)
+                .setDownloadUrl(url)
+                .setContentHtml(true)
+                .setDebug(App.isDebug())
+                .build();
+
+        updateDialog.showUpdateDialog(activity);
     }
 
     private void goDownload(Activity activity, String url) {

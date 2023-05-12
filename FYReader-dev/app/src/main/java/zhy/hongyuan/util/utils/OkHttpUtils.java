@@ -169,16 +169,9 @@ public class OkHttpUtils {
     }
 
     public static String getUpdateInfo() throws IOException {
-        String key = "ryvwiq";
-        if (App.isDebug()) {
-            key = "sgak2h";
-        }
-        String url = "https://www.yuque.com/api/docs/" + key + "?book_id=19981967&include_contributors=true&include_hits=true&include_like=true&include_pager=true&include_suggests=true";
-        String referer = "https://www.yuque.com/books/share/bf61f5fb-6eff-4740-ab38-749300e79306/" + key;
+        String url = "https://gitlab.com/zhaihongyuan/MVP/-/raw/main/app/updataInfos";
         Request.Builder builder = new Request.Builder()
-                .addHeader("User-Agent", APPCONST.DEFAULT_USER_AGENT)
-                .addHeader("Content-Type", "application/json")
-                .addHeader("Referer", referer);
+                .addHeader("Content-Type", "application/json");
         Request request = builder
                 .url(url)
                 .build();
@@ -194,12 +187,11 @@ public class OkHttpUtils {
                 JSONObject jsonObj = new JSONObject(bodyStr);
                 jsonObj = jsonObj.getJSONObject("data");
                 String content = jsonObj.getString("content");
-                Document doc = Jsoup.parse(content);
-                content = doc.text();
+//                Document doc = Jsoup.parse(content);
+//                content = doc.text();
                 Log.d("Http -> UpdateInfo", content);
                 return content;
-            }catch (JSONException e){
-                e.printStackTrace();
+            } catch (JSONException e) {
                 return "";
             }
         }

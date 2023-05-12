@@ -203,7 +203,7 @@ public class SplashActivity extends BaseActivity<ActivitySplashBinding> {
         binding.ivSplash.startAnimation(inAni);
         binding.llAd.setVisibility(View.GONE);
         WAIT_INTERVAL = 1500;
-        loadImage();
+//        loadImage();
         startNormal();
     }
 
@@ -281,45 +281,45 @@ public class SplashActivity extends BaseActivity<ActivitySplashBinding> {
 
 
     private void loadImage() {
-        File imgFile = getFileStreamPath(APPCONST.FILE_NAME_SPLASH_IMAGE);
-        SharedPreUtils preUtils = SharedPreUtils.getInstance();
-        String splashImageMD5 = preUtils.getString("splashImageMD5");
-        if (!imgFile.exists() || preUtils.getBoolean("needUdSI") ||
-                !splashImageMD5.equals(MD5Utils.INSTANCE.getFileMD5s(imgFile, 16))) {
-            if ("".equals(splashImageMD5)) return;
-            downLoadImage();
-            return;
-        }
-        String splashLoadDate = preUtils.getString("splashTime");
-        if (splashLoadDate.equals("")) {
-            return;
-        }
-        long startTime = 0;
-        long endTime = 0;
-        long curTime = DateHelper.getLongDate();
-        if (splashLoadDate.contains("~")) {
-            String[] splashLoadDates = splashLoadDate.split("~");
-            startTime = DateHelper.strDateToLong(splashLoadDates[0] + " 00:00:00");
-            endTime = DateHelper.strDateToLong(splashLoadDates[1] + " 00:00:00");
-        }
-        if (startTime == 0) {
-            startTime = DateHelper.strDateToLong(splashLoadDate + " 00:00:00");
-        }
-        if (endTime == 0) {
-            endTime = startTime + 24 * 60 * 60 * 1000;
-        }
-        if (curTime >= startTime && curTime <= endTime) {
-            WAIT_INTERVAL = 1500;
-            RequestOptions options = new RequestOptions()
-                    .error(R.drawable.start)
-                    .signature(new ObjectKey(splashLoadDate));
-            ImageLoader.INSTANCE
-                    .load(this, imgFile)
-                    /*.error(R.drawable.start)
-                    .signature(new ObjectKey(splashLoadDate))*/
-                    .apply(options)
-                    .into(binding.ivSplash);
-        }
+//        File imgFile = getFileStreamPath(APPCONST.FILE_NAME_SPLASH_IMAGE);
+//        SharedPreUtils preUtils = SharedPreUtils.getInstance();
+//        String splashImageMD5 = preUtils.getString("splashImageMD5");
+//        if (!imgFile.exists() || preUtils.getBoolean("needUdSI") ||
+//                !splashImageMD5.equals(MD5Utils.INSTANCE.getFileMD5s(imgFile, 16))) {
+//            if ("".equals(splashImageMD5)) return;
+//            downLoadImage();
+//            return;
+//        }
+//        String splashLoadDate = preUtils.getString("splashTime");
+//        if (splashLoadDate.equals("")) {
+//            return;
+//        }
+//        long startTime = 0;
+//        long endTime = 0;
+//        long curTime = DateHelper.getLongDate();
+//        if (splashLoadDate.contains("~")) {
+//            String[] splashLoadDates = splashLoadDate.split("~");
+//            startTime = DateHelper.strDateToLong(splashLoadDates[0] + " 00:00:00");
+//            endTime = DateHelper.strDateToLong(splashLoadDates[1] + " 00:00:00");
+//        }
+//        if (startTime == 0) {
+//            startTime = DateHelper.strDateToLong(splashLoadDate + " 00:00:00");
+//        }
+//        if (endTime == 0) {
+//            endTime = startTime + 24 * 60 * 60 * 1000;
+//        }
+//        if (curTime >= startTime && curTime <= endTime) {
+//            WAIT_INTERVAL = 1500;
+//            RequestOptions options = new RequestOptions()
+//                    .error(R.drawable.start)
+//                    .signature(new ObjectKey(splashLoadDate));
+//            ImageLoader.INSTANCE
+//                    .load(this, imgFile)
+//                    /*.error(R.drawable.start)
+//                    .signature(new ObjectKey(splashLoadDate))*/
+//                    .apply(options)
+//                    .into(binding.ivSplash);
+//        }
     }
 
     private void downLoadImage() {

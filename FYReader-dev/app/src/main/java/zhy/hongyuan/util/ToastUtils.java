@@ -18,6 +18,8 @@
 
 package zhy.hongyuan.util;
 
+import static zhy.hongyuan.application.App.TAG;
+
 import android.util.Log;
 
 import androidx.annotation.NonNull;
@@ -47,6 +49,8 @@ public class ToastUtils {
 
     //红色
     public static void showError(@NonNull String msg) {
+        Log.i("FANGFEI", Log.getStackTraceString(new Throwable()));
+
         App.runOnUiThread(() -> Toasty.custom(App.getmContext(), msg,
                 ContextCompat.getDrawable(App.getmContext(), R.drawable.ic_error),
                 App.getmContext().getResources().getColor(R.color.toast_red),
