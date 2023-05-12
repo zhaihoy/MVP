@@ -92,7 +92,7 @@ class SourceSubscribeActivity : BaseActivity<ActivitySourceSubscribeBinding>() {
     }
 
     private fun loadFiles() {
-        LanZouApi.getFoldFiles(URLCONST.SUB_SOURCE_URL, page, "fm9a")
+        LanZouApi.getFoldFiles(URLCONST.SUB_SOURCE_URL, page, "bx8q")
             .onSuccess {
                 if (it != null) {
                     if (page == 1) {

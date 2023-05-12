@@ -116,12 +116,12 @@ class SubscribeSourceFragment(private val sourceActivity: BookSourceActivity) : 
         binding.ivNoDataTips.onClick {
             binding.tvSubscribeSource.performClick()
         }
-//        binding.tvSubscribeSource.onClick {
-//            startActivityForResult(
-//                Intent(context, SourceSubscribeActivity::class.java),
-//                APPCONST.REQUEST_SUBSCRIBE
-//            )
-//        }
+        binding.tvSubscribeSource.onClick {
+            startActivityForResult(
+                Intent(context, SourceSubscribeActivity::class.java),
+                APPCONST.REQUEST_SUBSCRIBE
+            )
+        }
         binding.ivGroup.setOnClickListener { view: View? ->
             showSourceGroupMenu(view)
         }

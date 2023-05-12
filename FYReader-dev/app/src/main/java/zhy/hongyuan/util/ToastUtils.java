@@ -18,6 +18,8 @@
 
 package zhy.hongyuan.util;
 
+import android.util.Log;
+
 import androidx.annotation.NonNull;
 import androidx.core.content.ContextCompat;
 
@@ -72,6 +74,7 @@ public class ToastUtils {
 
     //黄色
     public static void showWarring(@NonNull String msg) {
+        Log.i("zhy",  Log.getStackTraceString(new Throwable())); //打印本地调用堆栈
         App.runOnUiThread(() -> Toasty.warning(App.getmContext(), msg, Toasty.LENGTH_SHORT, true).show());
     }
 
