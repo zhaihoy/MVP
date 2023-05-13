@@ -57,5 +57,5 @@
     <!--  书籍更新强调色  -->
     <color name="highlight">#d3321b</color>
 <!--    <color name="highlight">@color/colorAccent</color>-->
-
+    <color name="shape_item_color">#000000</color>
 </resources>
