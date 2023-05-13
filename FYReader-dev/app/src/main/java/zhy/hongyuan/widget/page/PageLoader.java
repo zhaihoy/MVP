@@ -80,7 +80,8 @@ public abstract class PageLoader {
     private String errorMsg = "";
     // 默认的显示参数配置
     public static final int DEFAULT_MARGIN_HEIGHT = 28;
-    public static final int DEFAULT_MARGIN_WIDTH = 15;
+    public static final int DEFAULT_MARGIN_WIDTH = 28;
+    public static final int DEFAULT_MARGIN = 20;
     private static final int DEFAULT_TIP_SIZE = 12;
     private static final int EXTRA_TITLE_SIZE = 4;
     private static final int TIP_ALPHA = 180;
@@ -927,7 +928,7 @@ public abstract class PageLoader {
         /****绘制背景****/
         if (!mSettingManager.isShowStatusBar()) {
             //需要注意的是:绘制text的y的起始点是text的基准线的位置，而不是从text的头部的位置
-            float tipTop = tipMarginHeight - mTipPaint.getFontMetrics().top;
+            float tipTop = tipMarginHeight - mTipPaint.getFontMetrics().top + ScreenUtils.dpToPx(8);
             if (!mChapterList.isEmpty() && mStatus == STATUS_FINISH) {
                 /*****初始化标题的参数********/
                 String title = getPagePos() == 0 ? mCollBook.getName() : mCurPage.title;
@@ -936,7 +937,7 @@ public abstract class PageLoader {
                 canvas.drawText(title, mMarginLeft, tipTop, mTipPaint);
                 /******绘制页码********/
                 // 底部的字显示的位置Y
-                float y = mDisplayHeight - mTipPaint.getFontMetrics().bottom - tipMarginHeight;
+                float y = mDisplayHeight - mTipPaint.getFontMetrics().bottom - tipMarginHeight - ScreenUtils.dpToPx(4);
                 String percent = (mCurPage.position + 1) + "/" + mCurChapter.getPageSize();
                 canvas.drawText(percent, mMarginLeft, y, mTipPaint);
             } else {
@@ -988,17 +989,17 @@ public abstract class PageLoader {
 
             //电极的制作
             int polarLeft = visibleRight - polarWidth;
-            int polarTop = visibleBottom - (outFrameHeight + polarHeight) / 2;
+            int polarTop = visibleBottom - (outFrameHeight + polarHeight) / 2 - ScreenUtils.dpToPx(8);
             Rect polar = new Rect(polarLeft, polarTop, visibleRight,
-                    polarTop + polarHeight - ScreenUtils.dpToPx(2));
+                    polarTop + polarHeight - ScreenUtils.dpToPx(1));
 
             mBatteryPaint.setStyle(Paint.Style.FILL);
             canvas.drawRect(polar, mBatteryPaint);
 
             //外框的制作
             int outFrameLeft = polarLeft - outFrameWidth;
-            int outFrameTop = visibleBottom - outFrameHeight;
-            int outFrameBottom = visibleBottom - ScreenUtils.dpToPx(2);
+            int outFrameTop = visibleBottom - outFrameHeight - ScreenUtils.dpToPx(8);
+            int outFrameBottom = visibleBottom - ScreenUtils.dpToPx(9);
             Rect outFrame = new Rect(outFrameLeft, outFrameTop, polarLeft, outFrameBottom);
 
             mBatteryPaint.setStyle(Paint.Style.STROKE);
@@ -1011,12 +1012,12 @@ public abstract class PageLoader {
             Paint.FontMetrics fontMetrics = mBatteryPaint.getFontMetrics();
             String batteryLevel = String.valueOf(mBatteryLevel);
             float batTextLeft = outFrameLeft + (outFrameWidth - mBatteryPaint.measureText(batteryLevel)) / 2 - ScreenUtils.dpToPx(1) / 2f;
-            float batTextBaseLine = visibleBottom - outFrameHeight / 2f - fontMetrics.top / 2 - fontMetrics.bottom / 2 - ScreenUtils.dpToPx(1);
+            float batTextBaseLine = visibleBottom - outFrameHeight / 2f - fontMetrics.top / 2 - fontMetrics.bottom / 2 - ScreenUtils.dpToPx(9);
             canvas.drawText(batteryLevel, batTextLeft, batTextBaseLine, mBatteryPaint);
 
             /******绘制当前时间********/
             //底部的字显示的位置Y
-            float y = mDisplayHeight - mTipPaint.getFontMetrics().bottom - tipMarginHeight;
+            float y = mDisplayHeight - mTipPaint.getFontMetrics().bottom - tipMarginHeight - ScreenUtils.dpToPx(5);
             String time = StringUtils.dateConvert(System.currentTimeMillis(), "HH:mm");
             float x = (mDisplayWidth - mTipPaint.measureText(time)) / 2;
             canvas.drawText(time, x, y, mTipPaint);
@@ -1295,8 +1296,8 @@ public abstract class PageLoader {
 
         // 设置边距
         mMarginTop = mSettingManager.isShowStatusBar() ?
-                ScreenUtils.dpToPx(mSettingManager.getPaddingTop() + DEFAULT_MARGIN_HEIGHT - 8) :
-                ScreenUtils.dpToPx(mSettingManager.getPaddingTop() + DEFAULT_MARGIN_HEIGHT);
+                ScreenUtils.dpToPx(mSettingManager.getPaddingTop() + DEFAULT_MARGIN_HEIGHT) :
+                ScreenUtils.dpToPx(mSettingManager.getPaddingTop() + DEFAULT_MARGIN_HEIGHT + 8);
         mMarginBottom = ScreenUtils.dpToPx(mSettingManager.getPaddingBottom() + DEFAULT_MARGIN_HEIGHT);
         mMarginLeft = ScreenUtils.dpToPx(mSettingManager.getPaddingLeft());
         mMarginRight = ScreenUtils.dpToPx(mSettingManager.getPaddingRight());
@@ -2163,7 +2164,7 @@ public abstract class PageLoader {
                 case -1:
                     mPageView.setLastSelectTxtChar(mCurPage.txtLists.get(mCurPage.txtLists.size() - 1).
                             getCharsData().get(mCurPage.txtLists.get(mCurPage.txtLists.size() - 1).
-                            getCharsData().size() - 1));
+                                    getCharsData().size() - 1));
                     break;
             }
             mPageView.setSelectMode(PageView.SelectMode.SelectMoveForward);
