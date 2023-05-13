@@ -1,17 +1,17 @@
 <!--
-  ~ This file is part of FYReader.
-  ~ FYReader is free software: you can redistribute it and/or modify
+  ~ This file is part of panda.
+  ~ panda is free software: you can redistribute it and/or modify
   ~ it under the terms of the GNU General Public License as published by
   ~ the Free Software Foundation, either version 3 of the License, or
   ~ (at your option) any later version.
   ~
-  ~ FYReader is distributed in the hope that it will be useful,
+  ~ panda is distributed in the hope that it will be useful,
   ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
   ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   ~ GNU General Public License for more details.
   ~
   ~ You should have received a copy of the GNU General Public License
-  ~ along with FYReader.  If not, see <https://www.gnu.org/licenses/>.
+  ~ along with panda.  If not, see <https://www.gnu.org/licenses/>.
   ~
   ~ Copyright (C) 2020 - 2022 fengyuecanzhu
   -->
@@ -42,7 +42,7 @@
     <string name="font_using">正在使用</string>
     <string name="font_change">更换字体</string>
     <string name="font_select">选择字体</string>
-    <string name="font_select_tip">"未找到本地字体，请将字体文件移至FYReader/font文件夹下(如果该文件夹不存在，请自行创建该文件夹或下载一个字体后自动创建文件夹)"</string>
+    <string name="font_select_tip">"未找到本地字体，请将字体文件移至panda/font文件夹下(如果该文件夹不存在，请自行创建该文件夹或下载一个字体后自动创建文件夹)"</string>
     <string name="font_example">月</string>
     <string name="font_use">立即使用</string>
     <string name="font_download">立即下载</string>
@@ -122,7 +122,7 @@
     <string name="update_log">更新日志</string>
     <string name="git_hub">GitHub</string>
     <string name="share_log">分享崩溃日志</string>
-    <string name="this_github_url">https://github.com/fengyuecanzhu/FYReader</string>
+    <string name="this_github_url">https://github.com/fengyuecanzhu/panda</string>
     <string name="plugin_version">插件版本：%s</string>
     <string name="update">检查更新</string>
     <string name="thanks">致谢名单</string>

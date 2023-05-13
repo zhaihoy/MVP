@@ -1,17 +1,17 @@
 /*
- * This file is part of FYReader.
- * FYReader is free software: you can redistribute it and/or modify
+ * This file is part of panda.
+ * panda is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * FYReader is distributed in the hope that it will be useful,
+ * panda is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with FYReader.  If not, see <https://www.gnu.org/licenses/>.
+ * along with panda.  If not, see <https://www.gnu.org/licenses/>.
  *
  * Copyright (C) 2020 - 2022 fengyuecanzhu
  */
@@ -181,7 +181,7 @@ public abstract class BaseActivity<VB> extends SwipeBackActivity {
         if (ActivityManage.mResumeActivityCount <= 0
                 && !App.isBackground){
             App.isBackground = true;
-            Log.d("FYReader", "onActivityStarted: 应用进入后台");
+            Log.d("panda", "onActivityStarted: 应用进入后台");
         }
     }
 
@@ -192,7 +192,7 @@ public abstract class BaseActivity<VB> extends SwipeBackActivity {
         if (ActivityManage.mResumeActivityCount == 1 &&
                 App.isBackground) {
             App.isBackground = false;
-            Log.d("FYReader", "onActivityStarted: 应用进入前台");
+            Log.d("panda", "onActivityStarted: 应用进入前台");
             if (!(this instanceof SplashActivity) && AdUtils.backSplashAd()) {
                 SplashActivity.start(this);
             }

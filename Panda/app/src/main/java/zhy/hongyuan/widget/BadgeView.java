@@ -1,17 +1,17 @@
 /*
- * This file is part of FYReader.
- * FYReader is free software: you can redistribute it and/or modify
+ * This file is part of panda.
+ * panda is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * FYReader is distributed in the hope that it will be useful,
+ * panda is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with FYReader.  If not, see <https://www.gnu.org/licenses/>.
+ * along with panda.  If not, see <https://www.gnu.org/licenses/>.
  *
  * Copyright (C) 2020 - 2022 fengyuecanzhu
  */
@@ -20,6 +20,7 @@ package zhy.hongyuan.widget;
 
 import android.content.Context;
 import android.graphics.Color;
+import android.graphics.Typeface;
 import android.graphics.drawable.ShapeDrawable;
 import android.graphics.drawable.shapes.RoundRectShape;
 import android.text.TextUtils;
@@ -34,6 +35,7 @@ import android.widget.TabWidget;
 
 
 import androidx.appcompat.widget.AppCompatTextView;
+
 import xyz.fycz.myreader.R;
 
 
@@ -71,9 +73,9 @@ public class BadgeView extends AppCompatTextView {
 
         // set default font
         setTextColor(Color.WHITE);
-        //setTypeface(Typeface.DEFAULT_BOLD);
+        setTypeface(Typeface.DEFAULT_BOLD);
         setTextSize(TypedValue.COMPLEX_UNIT_SP, 11);
-        setPadding(dip2Px(5), dip2Px(1), dip2Px(5), dip2Px(1));
+        setPadding(dip2Px(5), dip2Px(2), dip2Px(5), dip2Px(2));
         radius = 8;
 
         // set default background

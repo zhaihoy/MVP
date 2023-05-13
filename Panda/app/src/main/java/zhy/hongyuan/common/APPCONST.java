@@ -1,17 +1,17 @@
 /*
- * This file is part of FYReader.
- * FYReader is free software: you can redistribute it and/or modify
+ * This file is part of panda.
+ * panda is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * FYReader is distributed in the hope that it will be useful,
+ * panda is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with FYReader.  If not, see <https://www.gnu.org/licenses/>.
+ * along with panda.  If not, see <https://www.gnu.org/licenses/>.
  *
  * Copyright (C) 2020 - 2022 fengyuecanzhu
  */
@@ -44,16 +44,16 @@ public class APPCONST {
     public static final String[] STORAGE_PERMISSIONS = new String[]{Permission.WRITE_EXTERNAL_STORAGE,
             Permission.READ_EXTERNAL_STORAGE};
 
-    public static final String FILE_DIR = Environment.getExternalStorageDirectory() + "/FYReader/";
-    public static final String SHARE_FILE_DIR = Environment.getExternalStorageDirectory() + "/FYReader/share/";
+    public static final String FILE_DIR = Environment.getExternalStorageDirectory() + "/panda/";
+    public static final String SHARE_FILE_DIR = Environment.getExternalStorageDirectory() + "/panda/share/";
     public static String LOG_DIR = FileUtils.getCachePath() + "/log/";
     public static String COVER_DIR = FileUtils.getCachePath() + "/covers/";
-    public static final String BG_FILE_DIR = Environment.getExternalStorageDirectory() + "/FYReader/bg/";
+    public static final String BG_FILE_DIR = Environment.getExternalStorageDirectory() + "/panda/bg/";
     public static String TEM_FILE_DIR = FileUtils.getCachePath() + "/tem/";
-    public static final String BACKUP_FILE_DIR = Environment.getExternalStorageDirectory() + "/FYReader/backup/";
-    public static final String TXT_BOOK_DIR = Environment.getExternalStorageDirectory() + "/FYReader/noveltxt/";
-    public static final String FONT_BOOK_DIR = Environment.getExternalStorageDirectory() + "/FYReader/font/";
-    public static final String UPDATE_APK_FILE_DIR = Environment.getExternalStorageDirectory() + "/FYReader/apk/";
+    public static final String BACKUP_FILE_DIR = Environment.getExternalStorageDirectory() + "/panda/backup/";
+    public static final String TXT_BOOK_DIR = Environment.getExternalStorageDirectory() + "/panda/noveltxt/";
+    public static final String FONT_BOOK_DIR = Environment.getExternalStorageDirectory() + "/panda/font/";
+    public static final String UPDATE_APK_FILE_DIR = Environment.getExternalStorageDirectory() + "/panda/apk/";
     public static final String QQ_DATA_DIR = Environment.getExternalStorageDirectory() + "/tencent/MobileQQ/data/";
     //BookCachePath (因为getCachePath引用了Context，所以必须是静态变量，不能够是静态常量)
     public static String BOOK_CACHE_PATH = FileUtils.getCachePath() + File.separator

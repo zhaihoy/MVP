@@ -1,17 +1,17 @@
 /*
- * This file is part of FYReader.
- * FYReader is free software: you can redistribute it and/or modify
+ * This file is part of panda.
+ * panda is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * FYReader is distributed in the hope that it will be useful,
+ * panda is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with FYReader.  If not, see <https://www.gnu.org/licenses/>.
+ * along with panda.  If not, see <https://www.gnu.org/licenses/>.
  *
  * Copyright (C) 2020 - 2022 fengyuecanzhu
  */
@@ -199,7 +199,7 @@ class App246Fix5 : AppFixHandle {
     @Throws(IOException::class)
     fun getBakUpdateInfo(): String {
         return OkHttpUtils.getHtml(
-            "https://gitlab.com/fengyuecanzhu/fyreader-resource/-/raw/main/FYReader-Update/" +
+            "https://gitlab.com/fengyuecanzhu/panda-resource/-/raw/main/panda-Update/" +
                     (if (App.isDebug()) "debug" else "release") +
                     "/content.txt"
         )

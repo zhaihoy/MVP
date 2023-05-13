@@ -1,38 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-  ~ This file is part of FYReader.
-  ~ FYReader is free software: you can redistribute it and/or modify
-  ~ it under the terms of the GNU General Public License as published by
-  ~ the Free Software Foundation, either version 3 of the License, or
-  ~ (at your option) any later version.
-  ~
-  ~ FYReader is distributed in the hope that it will be useful,
-  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
-  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  ~ GNU General Public License for more details.
-  ~
-  ~ You should have received a copy of the GNU General Public License
-  ~ along with FYReader.  If not, see <https://www.gnu.org/licenses/>.
-  ~
-  ~ Copyright (C) 2020 - 2022 fengyuecanzhu
-  -->
-
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:background="@color/colorBackground"
     android:id="@+id/rl_book_item"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:background="@color/colorBackground"
     android:orientation="vertical"
-    android:paddingStart="5dp"
-    android:paddingEnd="5dp">
+    android:paddingStart="8dp"
+    android:paddingEnd="8dp"
+    android:paddingBottom="5dp">
 
     <LinearLayout
         android:id="@+id/ll_book_item"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:background="@drawable/shape_item_main"
         android:orientation="horizontal"
-        android:padding="5dp">
+        android:padding="15dp">
 
         <CheckBox
             android:id="@+id/cb_book_select"
@@ -163,11 +147,5 @@
         android:layout_alignParentRight="true"
         android:padding="10dp"
         android:visibility="gone" />
-
-    <View
-        android:layout_width="fill_parent"
-        android:layout_height="0.5dp"
-        android:layout_alignParentBottom="true"
-        android:background="@color/sys_window_back" />
 
 </RelativeLayout>

@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-  ~ This file is part of FYReader.
-  ~ FYReader is free software: you can redistribute it and/or modify
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ This file is part of panda.
+  ~ panda is free software: you can redistribute it and/or modify
   ~ it under the terms of the GNU General Public License as published by
   ~ the Free Software Foundation, either version 3 of the License, or
   ~ (at your option) any later version.
   ~
-  ~ FYReader is distributed in the hope that it will be useful,
+  ~ panda is distributed in the hope that it will be useful,
   ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
   ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   ~ GNU General Public License for more details.
   ~
   ~ You should have received a copy of the GNU General Public License
-  ~ along with FYReader.  If not, see <https://www.gnu.org/licenses/>.
+  ~ along with panda.  If not, see <https://www.gnu.org/licenses/>.
   ~
   ~ Copyright (C) 2020 - 2022 fengyuecanzhu
   -->
@@ -32,17 +31,19 @@
 
         <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
             android:clickable="false"
             android:paddingLeft="20dp"
             android:paddingRight="20dp">
 
             <ImageView
                 android:id="@+id/iv_quotation"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
                 android:layout_alignParentStart="true"
                 android:layout_centerVertical="true"
+                android:scaleType="fitCenter"
                 android:src="@drawable/ic_quotations" />
 
             <TextView
@@ -53,38 +54,43 @@
                 android:layout_toEndOf="@id/iv_quotation"
                 android:text="语录"
                 android:textColor="@color/textPrimary"
-                android:textSize="@dimen/text_small_size" />
+                android:textSize="15dp" />
         </RelativeLayout>
+
         <LinearLayout
             android:id="@+id/find_rl_quotation"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@drawable/selector_common_bg"
-            android:paddingVertical="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="@dimen/_15dp"
+            android:background="@drawable/shape_item_main"
+            android:orientation="vertical"
             android:paddingHorizontal="20dp"
-            android:orientation="vertical">
+            android:paddingVertical="10dp">
 
             <TextView
                 android:id="@+id/tv_quotation"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="恰沐春风共同游，终只叹，木已舟。"
-                android:textColor="@color/textSecondary"
-                android:textSize="@dimen/text_small_size" />
+                android:textColor="#CC000000"
+                android:textSize="14dp" />
 
             <TextView
                 android:id="@+id/tv_from"
-                android:paddingTop="3dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="end"
+                android:paddingTop="3dp"
                 android:text="--- 网易云"
-                android:textColor="@color/textSecondary"
-                android:textSize="@dimen/text_small_size" />
+                android:textColor="#CC000000"
+                android:textSize="14dp" />
 
         </LinearLayout>
 
         <RelativeLayout
+            android:layout_marginTop="10dp"
             android:layout_width="match_parent"
             android:layout_height="35dp"
             android:clickable="false"
@@ -93,8 +99,8 @@
 
             <ImageView
                 android:id="@+id/iv_store"
-                android:layout_width="20dp"
-                android:layout_height="20dp"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
                 android:layout_alignParentStart="true"
                 android:layout_centerVertical="true"
                 android:src="@drawable/ic_bookstore" />
@@ -107,13 +113,13 @@
                 android:layout_toEndOf="@id/iv_store"
                 android:text="书库"
                 android:textColor="@color/textPrimary"
-                android:textSize="@dimen/text_small_size" />
+                android:textSize="15dp" />
         </RelativeLayout>
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/rv_find_sources"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent" />
     </LinearLayout>
 
 </androidx.core.widget.NestedScrollView>

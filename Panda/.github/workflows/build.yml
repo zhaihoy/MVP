@@ -78,7 +78,7 @@ jobs:
           prerelease: false
           draft: false
           tag_name: ${{ steps.config.outputs.version_name }}
-          name: FYReader_${{ steps.config.outputs.version_name }}
+          name: panda_${{ steps.config.outputs.version_name }}
           files: |
             ${{ steps.get_path.outputs.file_path }}/熊猫读书 ${{ steps.config.outputs.version_name }}.apk
         env:

@@ -1,17 +1,17 @@
 /*
- * This file is part of FYReader.
- * FYReader is free software: you can redistribute it and/or modify
+ * This file is part of panda.
+ * panda is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * FYReader is distributed in the hope that it will be useful,
+ * panda is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with FYReader.  If not, see <https://www.gnu.org/licenses/>.
+ * along with panda.  If not, see <https://www.gnu.org/licenses/>.
  *
  * Copyright (C) 2020 - 2022 fengyuecanzhu
  */
@@ -69,7 +69,7 @@ object WebDavHelp {
         val names = arrayListOf<String>()
         try {
             if (initWebDav()) {
-                var files = WebDav(url + "FYReader/").listFiles()
+                var files = WebDav(url + "panda/").listFiles()
                 val sortType = SharedPreUtils.getInstance().getInt("sortType")
                 if (sortType == 0) files = files.reversed()
                 val max = SharedPreUtils.getInstance().getInt("restoreNum", 30)
@@ -111,7 +111,7 @@ object WebDavHelp {
     private fun restoreWebDav(name: String, callBack: Restore.CallBack?) {
         Single.create(SingleOnSubscribe<Boolean> { e ->
             getWebDavUrl().let {
-                val file = WebDav(it + "FYReader/" + name)
+                val file = WebDav(it + "panda/" + name)
                 file.downloadTo(zipFilePath, true)
                 @Suppress("BlockingMethodInNonBlockingContext")
                 ZipUtils.unzipFile(zipFilePath, unzipFilesPath)
@@ -135,8 +135,8 @@ object WebDavHelp {
                 }
                 FileUtils.deleteFile(zipFilePath)
                 if (ZipUtils.zipFiles(paths, zipFilePath)) {
-                    WebDav(getWebDavUrl() + "FYReader").makeAsDir()
-                    val putUrl = getWebDavUrl() + "FYReader/backup" +
+                    WebDav(getWebDavUrl() + "panda").makeAsDir()
+                    val putUrl = getWebDavUrl() + "panda/backup" +
                             SimpleDateFormat("yyyy-MM-dd", Locale.getDefault())
                                     .format(Date(System.currentTimeMillis())) + ".zip"
                     WebDav(putUrl).upload(zipFilePath)

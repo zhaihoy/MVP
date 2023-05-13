@@ -1,17 +1,17 @@
 /*
- * This file is part of FYReader.
- * FYReader is free software: you can redistribute it and/or modify
+ * This file is part of panda.
+ * panda is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * FYReader is distributed in the hope that it will be useful,
+ * panda is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with FYReader.  If not, see <https://www.gnu.org/licenses/>.
+ * along with panda.  If not, see <https://www.gnu.org/licenses/>.
  *
  * Copyright (C) 2020 - 2022 fengyuecanzhu
  */
@@ -69,6 +69,7 @@ public class ToastUtils {
 
     //蓝色
     public static void showInfo(@NonNull String msg) {
+        Log.i("FANGFEI",  Log.getStackTraceString(new Throwable())); //打印本地调用堆栈
         App.runOnUiThread(() -> Toasty.custom(App.getmContext(), msg,
                 ContextCompat.getDrawable(App.getmContext(), R.drawable.ic_smile_face),
                 App.getmContext().getResources().getColor(R.color.toast_blue),

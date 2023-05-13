@@ -1,17 +1,17 @@
 /*
- * This file is part of FYReader.
- * FYReader is free software: you can redistribute it and/or modify
+ * This file is part of panda.
+ * panda is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * FYReader is distributed in the hope that it will be useful,
+ * panda is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with FYReader.  If not, see <https://www.gnu.org/licenses/>.
+ * along with panda.  If not, see <https://www.gnu.org/licenses/>.
  *
  * Copyright (C) 2020 - 2022 fengyuecanzhu
  */
@@ -53,7 +53,7 @@ import zhy.hongyuan.util.SharedPreUtils;
 import zhy.hongyuan.util.ToastUtils;
 
 /**
- * @author  hongyuan
+ * @author hongyuan
  * @date 2021/6/3 21:46
  */
 public class ShareBookUtil {
@@ -84,31 +84,31 @@ public class ShareBookUtil {
         }
         ToastUtils.showInfo("正在生成分享图片");
         Single.create((SingleOnSubscribe<File>) emitter -> {
-            // 使用url
-            String url = SharedPreUtils.getInstance().getString(context.getString(R.string.downloadLink), URLCONST.LAN_ZOU_URL);
-            if (url == null)
-                url = "";
+                    // 使用url
+                    String url = SharedPreUtils.getInstance().getString(context.getString(R.string.downloadLink), URLCONST.LAN_ZOU_URL);
+                    if (url == null)
+                        url = "";
 
-            int maxLength = 1273 - 1 - url.length();
+                    int maxLength = 1273 - 1 - url.length();
 
-            SharedBook sharedBook = SharedBook.bookToSharedBook(mBook);
+                    SharedBook sharedBook = SharedBook.bookToSharedBook(mBook);
 
-            url = url + "#" + GsonExtensionsKt.getGSON().toJson(sharedBook);
+                    url = url + "#" + GsonExtensionsKt.getGSON().toJson(sharedBook);
 
-            Log.d("QRcode", "Length=" + url.length() + "\n" + url);
+                    Log.d("QRcode", "Length=" + url.length() + "\n" + url);
 
-            Bitmap bitmap;
-            QRCodeEncoder.HINTS.put(EncodeHintType.ERROR_CORRECTION, ErrorCorrectionLevel.L);
-            bitmap = QRCodeEncoder.syncEncodeQRCode(url, 360);
-            QRCodeEncoder.HINTS.put(EncodeHintType.ERROR_CORRECTION, ErrorCorrectionLevel.H);
+                    Bitmap bitmap;
+                    QRCodeEncoder.HINTS.put(EncodeHintType.ERROR_CORRECTION, ErrorCorrectionLevel.L);
+                    bitmap = QRCodeEncoder.syncEncodeQRCode(url, 360);
+                    QRCodeEncoder.HINTS.put(EncodeHintType.ERROR_CORRECTION, ErrorCorrectionLevel.H);
 
-            File share = makeShareFile(context, mBook, cover, bitmap);
-            if (share == null) {
-                ToastUtils.showError("分享图片生成失败");
-                return;
-            }
-            emitter.onSuccess(share);
-        }).compose(RxUtils::toSimpleSingle)
+                    File share = makeShareFile(context, mBook, cover, bitmap);
+                    if (share == null) {
+                        ToastUtils.showError("分享图片生成失败");
+                        return;
+                    }
+                    emitter.onSuccess(share);
+                }).compose(RxUtils::toSimpleSingle)
                 .subscribe(new MySingleObserver<File>() {
                     @Override
                     public void onSuccess(@NonNull File File) {
@@ -165,9 +165,9 @@ public class ShareBookUtil {
             int textInterval = textSize / 2;
             textPaint.setTextSize(textSize);
 
-            drawDesc(getDescLines(mBook, backWidth - margin * 2, textPaint), textPaint, cv, margin + marginTop * 4 + img.getHeight(), margin, textInterval);
+            drawDesc(getDescLines(mBook, backWidth - margin * 2, textPaint), textPaint, cv, margin + marginTop * 13 + img.getHeight(), margin, textInterval);
 
-            cv.drawBitmap(QRCode, backWidth - QRCode.getWidth(), backHeight - QRCode.getHeight(), null);
+            cv.drawBitmap(QRCode, backWidth - QRCode.getWidth(), backHeight - QRCode.getHeight() + 10, null);
 
             cv.save();// 保存
             cv.restore();// 存储

@@ -2,21 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FYReader-dev.iml" filepath="$PROJECT_DIR$/.idea/modules/FYReader-dev.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DialogX/FYReader-dev.DialogX.iml" filepath="$PROJECT_DIR$/.idea/modules/DialogX/FYReader-dev.DialogX.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DialogX/FYReader-dev.DialogX.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DialogX/FYReader-dev.DialogX.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DialogX/FYReader-dev.DialogX.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DialogX/FYReader-dev.DialogX.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DialogX/FYReader-dev.DialogX.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DialogX/FYReader-dev.DialogX.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FYReader-dev.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FYReader-dev.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FYReader-dev.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FYReader-dev.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FYReader-dev.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FYReader-dev.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FYReader-dev.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FYReader-dev.app.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamic/FYReader-dev.dynamic.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamic/FYReader-dev.dynamic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamic/FYReader-dev.dynamic.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamic/FYReader-dev.dynamic.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamic/FYReader-dev.dynamic.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamic/FYReader-dev.dynamic.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamic/FYReader-dev.dynamic.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamic/FYReader-dev.dynamic.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin/FYReader-dev.plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin/FYReader-dev.plugin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user/FYReader-dev.user.iml" filepath="$PROJECT_DIR$/.idea/modules/user/FYReader-dev.user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Panda.iml" filepath="$PROJECT_DIR$/.idea/modules/Panda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DialogX/Panda.DialogX.iml" filepath="$PROJECT_DIR$/.idea/modules/DialogX/Panda.DialogX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DialogX/Panda.DialogX.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DialogX/Panda.DialogX.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DialogX/Panda.DialogX.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DialogX/Panda.DialogX.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DialogX/Panda.DialogX.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DialogX/Panda.DialogX.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Panda.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Panda.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Panda.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Panda.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Panda.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Panda.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Panda.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Panda.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamic/Panda.dynamic.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamic/Panda.dynamic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamic/Panda.dynamic.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamic/Panda.dynamic.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamic/Panda.dynamic.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamic/Panda.dynamic.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamic/Panda.dynamic.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamic/Panda.dynamic.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin/Panda.plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin/Panda.plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user/Panda.user.iml" filepath="$PROJECT_DIR$/.idea/modules/user/Panda.user.iml" />
     </modules>
   </component>
 </project>
