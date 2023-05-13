@@ -74,7 +74,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="恰沐春风共同游，终只叹，木已舟。"
-                android:textColor="#CC000000"
+                android:textColor="@color/shape_item_tips"
                 android:textSize="14dp" />
 
             <TextView
@@ -84,15 +84,15 @@
                 android:gravity="end"
                 android:paddingTop="3dp"
                 android:text="--- 网易云"
-                android:textColor="#CC000000"
+                android:textColor="@color/shape_item_tips"
                 android:textSize="14dp" />
 
         </LinearLayout>
 
         <RelativeLayout
-            android:layout_marginTop="10dp"
             android:layout_width="match_parent"
             android:layout_height="35dp"
+            android:layout_marginTop="10dp"
             android:clickable="false"
             android:paddingLeft="20dp"
             android:paddingRight="20dp">
