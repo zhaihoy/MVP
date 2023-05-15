@@ -24,7 +24,7 @@ import android.graphics.Canvas;
 import android.graphics.drawable.GradientDrawable;
 import android.util.AttributeSet;
 import androidx.appcompat.widget.AppCompatButton;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 
 /**
  * @author  hongyuan

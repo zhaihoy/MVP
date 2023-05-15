@@ -45,7 +45,7 @@ import zhy.hongyuan.base.observer.MyObserver;
 import zhy.hongyuan.base.observer.MySingleObserver;
 import zhy.hongyuan.common.APPCONST;
 import zhy.hongyuan.common.URLCONST;
-import xyz.fycz.myreader.databinding.FragmentFindBinding;
+import zhy.panda.myreader.databinding.FragmentFindBinding;
 import zhy.hongyuan.entity.Quotation;
 import zhy.hongyuan.greendao.entity.rule.BookSource;
 import zhy.hongyuan.model.sourceAnalyzer.BookSourceManager;

@@ -29,7 +29,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.core.content.ContextCompat;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.SysManager;
 import zhy.hongyuan.entity.Setting;
 import zhy.hongyuan.greendao.entity.BookMark;

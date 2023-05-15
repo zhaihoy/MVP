@@ -33,7 +33,7 @@ import me.fycz.maple.MapleBridge
 import me.fycz.maple.MapleUtils
 import me.fycz.maple.MethodHook
 import xyz.fycz.dynamic.AppLoadImpl
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.base.adapter2.onClick
 import zhy.hongyuan.entity.PluginConfig
 import zhy.hongyuan.ui.activity.AboutActivity

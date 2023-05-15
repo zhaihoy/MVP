@@ -38,7 +38,7 @@ import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.List;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.base.observer.MySingleObserver;
 import zhy.hongyuan.greendao.entity.Book;
 import zhy.hongyuan.greendao.entity.ReplaceRuleBean;

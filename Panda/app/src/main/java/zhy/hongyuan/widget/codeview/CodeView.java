@@ -28,7 +28,7 @@ import android.view.MotionEvent;
 import android.view.ScaleGestureDetector;
 import android.webkit.WebView;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 
 
 public class CodeView extends WebView {

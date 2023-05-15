@@ -22,7 +22,7 @@ import zhy.hongyuan.util.SharedPreUtils;
 
 public class URLCONST {
 
-    public static final String OFFICIAL_WEB = "https://reader." + getDefaultDomain() + "/";
+    public static final String OFFICIAL_WEB = "https://blog.csdn.net/qq_39956074";
 
     public static String LAN_ZOU_URL = "https://fycz.lanzoum.com";
 

@@ -21,7 +21,7 @@ package zhy.hongyuan.webapi.crawler;
 
 import android.text.TextUtils;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.enums.LocalBookSource;
 import zhy.hongyuan.greendao.entity.rule.BookSource;

@@ -37,10 +37,10 @@ import com.google.android.material.tabs.TabLayout;
 import java.net.URLEncoder;
 import java.util.List;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.base.BaseActivity;
 import zhy.hongyuan.common.APPCONST;
-import xyz.fycz.myreader.databinding.ActivitySourceEditBinding;
+import zhy.panda.myreader.databinding.ActivitySourceEditBinding;
 import zhy.hongyuan.entity.sourcedebug.DebugEntity;
 import zhy.hongyuan.entity.sourceedit.EditEntity;
 import zhy.hongyuan.entity.sourceedit.EditEntityUtil;

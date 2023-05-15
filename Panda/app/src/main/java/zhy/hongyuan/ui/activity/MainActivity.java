@@ -44,13 +44,13 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.application.SysManager;
 import zhy.hongyuan.base.BaseActivity;
 import zhy.hongyuan.base.BitIntentDataManager;
 import zhy.hongyuan.common.APPCONST;
-import xyz.fycz.myreader.databinding.ActivityMainBinding;
+import zhy.panda.myreader.databinding.ActivityMainBinding;
 import zhy.hongyuan.entity.SharedBook;
 import zhy.hongyuan.greendao.entity.Book;
 import zhy.hongyuan.greendao.entity.BookGroup;

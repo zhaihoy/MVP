@@ -29,7 +29,7 @@ import com.bumptech.glide.load.engine.GlideException
 import com.bumptech.glide.request.RequestListener
 import com.bumptech.glide.request.RequestOptions
 import com.bumptech.glide.request.target.Target
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.util.utils.ImageLoader
 
 

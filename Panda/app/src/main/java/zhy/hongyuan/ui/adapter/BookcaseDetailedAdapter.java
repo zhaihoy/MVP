@@ -35,7 +35,7 @@ import org.jetbrains.annotations.NotNull;
 import java.util.ArrayList;
 import java.util.Collections;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.base.BitIntentDataManager;
 import zhy.hongyuan.ui.activity.ReadActivity;
 import zhy.hongyuan.ui.adapter.helper.ItemTouchCallback;

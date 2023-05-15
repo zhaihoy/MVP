@@ -34,7 +34,7 @@ import org.jetbrains.annotations.NotNull;
 import java.util.ArrayList;
 import java.util.List;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.base.adapter.ViewHolderImpl;
 import zhy.hongyuan.base.observer.MyObserver;

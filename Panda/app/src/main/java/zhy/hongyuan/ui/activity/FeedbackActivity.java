@@ -28,10 +28,10 @@ import android.webkit.WebViewClient;
 
 import androidx.appcompat.widget.Toolbar;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.base.BaseActivity;
-import xyz.fycz.myreader.databinding.ActivityFeedbackBinding;
+import zhy.panda.myreader.databinding.ActivityFeedbackBinding;
 import zhy.hongyuan.ui.dialog.DialogCreator;
 
 /**

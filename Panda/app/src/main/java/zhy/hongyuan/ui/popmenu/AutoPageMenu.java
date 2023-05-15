@@ -28,7 +28,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
 import zhy.hongyuan.application.SysManager;
-import xyz.fycz.myreader.databinding.MenuAutoPageBinding;
+import zhy.panda.myreader.databinding.MenuAutoPageBinding;
 import zhy.hongyuan.entity.Setting;
 
 public class AutoPageMenu extends FrameLayout {

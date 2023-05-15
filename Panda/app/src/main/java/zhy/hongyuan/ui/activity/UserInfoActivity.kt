@@ -24,13 +24,13 @@ import android.os.Bundle
 import android.view.View
 import androidx.appcompat.widget.Toolbar
 import io.reactivex.disposables.Disposable
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.application.App
 import zhy.hongyuan.base.BaseActivity
 import zhy.hongyuan.base.adapter2.onClick
 import zhy.hongyuan.base.observer.MySingleObserver
 import zhy.hongyuan.common.APPCONST
-import xyz.fycz.myreader.databinding.ActivityUserInfoBinding
+import zhy.panda.myreader.databinding.ActivityUserInfoBinding
 import zhy.hongyuan.model.user.Result
 import zhy.hongyuan.model.user.User
 import zhy.hongyuan.model.user.UserService

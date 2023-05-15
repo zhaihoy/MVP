@@ -23,7 +23,7 @@ import zhy.hongyuan.model.third3.analyzeRule.AnalyzeRule
 import zhy.hongyuan.model.third3.analyzeRule.AnalyzeUrl
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.ensureActive
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.application.App
 import zhy.hongyuan.greendao.entity.Book
 import zhy.hongyuan.greendao.entity.rule.BookListRule

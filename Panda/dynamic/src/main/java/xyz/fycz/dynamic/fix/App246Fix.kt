@@ -28,7 +28,7 @@ import androidx.viewbinding.ViewBinding
 import me.fycz.maple.MapleBridge
 import me.fycz.maple.MapleUtils
 import me.fycz.maple.MethodHook
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.base.adapter2.onClick
 import zhy.hongyuan.ui.activity.MoreSettingActivity
 import zhy.hongyuan.util.ToastUtils

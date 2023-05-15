@@ -35,7 +35,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Checkable;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 
 
 /**

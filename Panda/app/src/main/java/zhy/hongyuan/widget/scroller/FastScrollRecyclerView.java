@@ -26,7 +26,7 @@ import android.view.ViewParent;
 import androidx.annotation.ColorInt;
 import androidx.recyclerview.widget.RecyclerView;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 
 
 @SuppressWarnings("unused")

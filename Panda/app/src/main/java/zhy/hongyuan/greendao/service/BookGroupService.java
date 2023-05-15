@@ -20,7 +20,7 @@ package zhy.hongyuan.greendao.service;
 
 import org.jetbrains.annotations.NotNull;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.greendao.DbManager;
 import zhy.hongyuan.greendao.entity.BookGroup;

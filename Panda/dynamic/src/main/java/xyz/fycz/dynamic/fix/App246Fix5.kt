@@ -25,7 +25,7 @@ import androidx.viewbinding.ViewBinding
 import me.fycz.maple.MapleBridge
 import me.fycz.maple.MapleUtils
 import me.fycz.maple.MethodReplacement
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.application.App
 import zhy.hongyuan.application.SysManager
 import zhy.hongyuan.base.observer.MyObserver

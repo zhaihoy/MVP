@@ -27,7 +27,7 @@ import android.view.ViewGroup;
 
 import androidx.recyclerview.widget.LinearLayoutManager;
 
-import xyz.fycz.myreader.databinding.FragmentLocalBookBinding;
+import zhy.panda.myreader.databinding.FragmentLocalBookBinding;
 import zhy.hongyuan.greendao.service.BookService;
 import zhy.hongyuan.ui.adapter.FileSystemAdapter;
 import zhy.hongyuan.util.media.MediaStoreHelper;

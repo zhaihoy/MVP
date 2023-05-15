@@ -33,9 +33,9 @@ import android.widget.SeekBar;
 import androidx.annotation.NonNull;
 
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
-import xyz.fycz.myreader.databinding.DialogAudioPlayerBinding;
+import zhy.panda.myreader.databinding.DialogAudioPlayerBinding;
 import zhy.hongyuan.model.audio.ReadAloudService;
 import zhy.hongyuan.ui.activity.ReadActivity;
 import zhy.hongyuan.util.SharedPreUtils;

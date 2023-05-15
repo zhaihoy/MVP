@@ -29,7 +29,7 @@ import com.zhy.view.flowlayout.TagAdapter;
 
 import java.util.List;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.util.ToastUtils;
 
 /**

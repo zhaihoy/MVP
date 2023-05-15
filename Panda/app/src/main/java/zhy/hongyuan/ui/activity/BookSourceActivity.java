@@ -35,10 +35,10 @@ import com.google.android.material.tabs.TabLayout;
 import java.util.Arrays;
 import java.util.List;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.base.BaseTabActivity;
-import xyz.fycz.myreader.databinding.ActivityBooksourceBinding;
+import zhy.panda.myreader.databinding.ActivityBooksourceBinding;
 import zhy.hongyuan.ui.fragment.DIYSourceFragment;
 import zhy.hongyuan.ui.fragment.SubscribeSourceFragment;
 

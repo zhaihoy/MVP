@@ -27,7 +27,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 
 /**
  * Created by newbiechen on 17-4-22.

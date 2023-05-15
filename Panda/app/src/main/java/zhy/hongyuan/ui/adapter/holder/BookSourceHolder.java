@@ -38,7 +38,7 @@ import io.reactivex.ObservableOnSubscribe;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.annotations.NonNull;
 import io.reactivex.schedulers.Schedulers;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.base.adapter.ViewHolderImpl;
 import zhy.hongyuan.base.observer.MyObserver;
 import zhy.hongyuan.base.observer.MySingleObserver;

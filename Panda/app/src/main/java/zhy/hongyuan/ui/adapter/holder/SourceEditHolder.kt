@@ -25,7 +25,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.textfield.TextInputEditText
 import com.google.android.material.textfield.TextInputLayout
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.base.adapter.ViewHolderImpl
 import zhy.hongyuan.entity.sourceedit.EditEntity
 

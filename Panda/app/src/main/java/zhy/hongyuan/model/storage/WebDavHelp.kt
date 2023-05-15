@@ -25,7 +25,7 @@ import io.reactivex.Single
 import io.reactivex.SingleOnSubscribe
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.base.observer.MySingleObserver
 import zhy.hongyuan.common.APPCONST
 import zhy.hongyuan.util.SharedPreUtils

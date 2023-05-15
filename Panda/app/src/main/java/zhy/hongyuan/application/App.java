@@ -53,7 +53,7 @@ import java.util.concurrent.Executors;
 
 import io.reactivex.internal.functions.Functions;
 import io.reactivex.plugins.RxJavaPlugins;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.common.APPCONST;
 import zhy.hongyuan.common.URLCONST;
 import zhy.hongyuan.entity.Setting;
@@ -388,11 +388,10 @@ public class App extends Application {
         return mActivity == null || mActivity.isFinishing() || mActivity.isDestroyed();
     }
 
-
     /****************
      *
-     * 发起添加群流程。群号：熊猫读书 交流群(1085028304) 的 key 为： 8PIOnHFuH6A38hgxvD_Rp2Bu-Ke1ToBn
-     * 调用 joinQQGroup(8PIOnHFuH6A38hgxvD_Rp2Bu-Ke1ToBn) 即可发起手Q客户端申请加群 熊猫读书 交流群(1085028304)
+     * 发起添加群流程。群号：熊猫读书📚(714879600) 的 key 为： ii7nlDiu_V06MFro-NiGLKDn5ef3-MXQ
+     * 调用 joinQQGroup(ii7nlDiu_V06MFro-NiGLKDn5ef3-MXQ) 即可发起手Q客户端申请加群 熊猫读书📚(714879600)
      *
      * @param key 由官网生成的key
      * @return 返回true表示呼起手Q成功，返回false表示呼起失败
@@ -409,6 +408,7 @@ public class App extends Application {
             return false;
         }
     }
+
 
     @RequiresApi(api = 28)
     public void webviewSetPath(Context context) {

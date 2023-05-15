@@ -40,7 +40,7 @@ import zhy.hongyuan.base.adapter.IViewHolder;
 import zhy.hongyuan.base.observer.MyObserver;
 import zhy.hongyuan.base.observer.MySingleObserver;
 import zhy.hongyuan.common.APPCONST;
-import xyz.fycz.myreader.databinding.FragmentFindBook2Binding;
+import zhy.panda.myreader.databinding.FragmentFindBook2Binding;
 import zhy.hongyuan.entity.FindKind;
 import zhy.hongyuan.entity.ad.AdBean;
 import zhy.hongyuan.greendao.entity.Book;

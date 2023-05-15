@@ -26,7 +26,7 @@ import android.widget.ListView;
 
 import androidx.fragment.app.Fragment;
 
-import xyz.fycz.myreader.databinding.FragmentBookmarkBinding;
+import zhy.panda.myreader.databinding.FragmentBookmarkBinding;
 import zhy.hongyuan.ui.presenter.BookMarkPresenter;
 
 /**

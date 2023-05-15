@@ -26,10 +26,10 @@ import android.view.MenuItem;
 import androidx.appcompat.widget.SearchView;
 import androidx.appcompat.widget.Toolbar;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.base.BaseActivity;
 import zhy.hongyuan.base.BitIntentDataManager;
-import xyz.fycz.myreader.databinding.ActivityCatalogBinding;
+import zhy.panda.myreader.databinding.ActivityCatalogBinding;
 import zhy.hongyuan.greendao.entity.Book;
 import zhy.hongyuan.ui.adapter.TabFragmentPageAdapter;
 import zhy.hongyuan.ui.fragment.BookMarkFragment;

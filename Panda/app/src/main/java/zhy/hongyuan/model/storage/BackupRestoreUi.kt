@@ -29,7 +29,7 @@ import io.reactivex.Single
 import io.reactivex.SingleEmitter
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.application.App
 import zhy.hongyuan.application.SysManager
 import zhy.hongyuan.base.observer.MySingleObserver

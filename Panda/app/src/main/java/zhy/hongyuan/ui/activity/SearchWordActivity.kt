@@ -27,7 +27,7 @@ import android.view.inputmethod.EditorInfo
 import android.view.inputmethod.InputMethodManager
 import androidx.appcompat.widget.Toolbar
 import androidx.recyclerview.widget.LinearLayoutManager
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.application.App
 import zhy.hongyuan.base.BaseActivity
 import zhy.hongyuan.base.BitIntentDataManager
@@ -35,7 +35,7 @@ import zhy.hongyuan.base.adapter.BaseListAdapter
 import zhy.hongyuan.base.adapter.IViewHolder
 import zhy.hongyuan.base.adapter2.onClick
 import zhy.hongyuan.common.APPCONST
-import xyz.fycz.myreader.databinding.ActivitySearchWordBinding
+import zhy.panda.myreader.databinding.ActivitySearchWordBinding
 import zhy.hongyuan.greendao.DbManager
 import zhy.hongyuan.greendao.entity.search.SearchWord1
 import zhy.hongyuan.greendao.entity.Book

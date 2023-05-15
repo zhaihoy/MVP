@@ -27,12 +27,12 @@ import android.widget.PopupMenu
 import androidx.recyclerview.widget.LinearLayoutManager
 import io.reactivex.Single
 import io.reactivex.SingleEmitter
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.base.BaseFragment
 import zhy.hongyuan.base.adapter2.onClick
 import zhy.hongyuan.base.observer.MySingleObserver
 import zhy.hongyuan.common.APPCONST
-import xyz.fycz.myreader.databinding.FragmentSubscribeSourceBinding
+import zhy.panda.myreader.databinding.FragmentSubscribeSourceBinding
 import zhy.hongyuan.greendao.DbManager
 import zhy.hongyuan.greendao.entity.rule.BookSource
 import zhy.hongyuan.model.sourceAnalyzer.BookSourceManager

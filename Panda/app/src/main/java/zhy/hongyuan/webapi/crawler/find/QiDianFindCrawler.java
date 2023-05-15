@@ -31,7 +31,7 @@ import java.util.Locale;
 import java.util.Set;
 
 import io.reactivex.Observable;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.entity.FindKind;
 import zhy.hongyuan.entity.StrResponse;

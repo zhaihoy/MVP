@@ -33,7 +33,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.scwang.smartrefresh.layout.SmartRefreshLayout;
 
-import xyz.fycz.myreader.databinding.FragmentBookListBinding;
+import zhy.panda.myreader.databinding.FragmentBookListBinding;
 import zhy.hongyuan.ui.presenter.BookcasePresenter;
 
 /**

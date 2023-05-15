@@ -48,10 +48,10 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.SysManager;
 import zhy.hongyuan.common.APPCONST;
-import xyz.fycz.myreader.databinding.MenuCumtomizeLayoutBinding;
+import zhy.panda.myreader.databinding.MenuCumtomizeLayoutBinding;
 import zhy.hongyuan.entity.ReadStyle;
 import zhy.hongyuan.entity.Setting;
 import zhy.hongyuan.ui.dialog.DialogCreator;

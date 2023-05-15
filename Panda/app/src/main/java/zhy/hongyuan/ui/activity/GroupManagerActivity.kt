@@ -24,11 +24,11 @@ import androidx.appcompat.widget.Toolbar
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.LinearLayoutManager
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.application.App
 import zhy.hongyuan.base.BaseActivity
-import xyz.fycz.myreader.databinding.ActivityGroupManagerBinding
-import xyz.fycz.myreader.databinding.ItemGroupBinding
+import zhy.panda.myreader.databinding.ActivityGroupManagerBinding
+import zhy.panda.myreader.databinding.ItemGroupBinding
 import zhy.hongyuan.greendao.entity.BookGroup
 import zhy.hongyuan.ui.adapter.BookGroupAdapter
 import zhy.hongyuan.ui.adapter.helper.ItemTouchCallback

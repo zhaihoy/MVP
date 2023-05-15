@@ -27,7 +27,7 @@ import android.graphics.RectF;
 import android.os.Looper;
 import android.util.AttributeSet;
 import android.view.View;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 
 public class RefreshProgressBar extends View {
     int a = 1;

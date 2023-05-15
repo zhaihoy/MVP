@@ -26,7 +26,7 @@ import androidx.annotation.NonNull;
 import androidx.core.content.ContextCompat;
 
 import es.dmoral.toasty.Toasty;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 
 /**

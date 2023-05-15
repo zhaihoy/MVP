@@ -39,7 +39,7 @@ import android.widget.GridView;
 import android.widget.ScrollView;
 
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 
 import java.util.ArrayList;
 import java.util.List;

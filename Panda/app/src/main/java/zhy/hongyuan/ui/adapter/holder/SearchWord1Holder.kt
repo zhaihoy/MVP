@@ -24,7 +24,7 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.base.adapter.BaseListAdapter
 import zhy.hongyuan.base.adapter.IViewHolder
 import zhy.hongyuan.base.adapter.ViewHolderImpl

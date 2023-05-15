@@ -27,7 +27,7 @@ import org.json.JSONObject;
 
 import io.reactivex.Single;
 import io.reactivex.SingleOnSubscribe;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.base.observer.MySingleObserver;
 import zhy.hongyuan.util.utils.OkHttpUtils;

@@ -26,7 +26,7 @@ import com.kongzue.dialogx.dialogs.BottomMenu;
 import java.util.ArrayList;
 import java.util.List;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.greendao.entity.Book;
 import zhy.hongyuan.greendao.entity.BookGroup;
 import zhy.hongyuan.greendao.service.BookGroupService;

@@ -27,12 +27,12 @@ import android.text.TextUtils
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.application.SysManager
 import zhy.hongyuan.base.BitIntentDataManager
 import zhy.hongyuan.base.adapter2.DiffRecyclerAdapter
 import zhy.hongyuan.base.adapter2.ItemViewHolder
-import xyz.fycz.myreader.databinding.ItemSearchBookBinding
+import zhy.panda.myreader.databinding.ItemSearchBookBinding
 import zhy.hongyuan.entity.SearchBookBean
 import zhy.hongyuan.greendao.entity.Book
 import zhy.hongyuan.model.mulvalmap.ConMVMap

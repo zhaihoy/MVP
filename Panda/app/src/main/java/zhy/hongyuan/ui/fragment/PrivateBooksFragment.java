@@ -29,11 +29,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.List;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.base.BaseFragment;
 import zhy.hongyuan.common.APPCONST;
-import xyz.fycz.myreader.databinding.FragmentPrivateBookcaseBinding;
+import zhy.panda.myreader.databinding.FragmentPrivateBookcaseBinding;
 import zhy.hongyuan.greendao.entity.Book;
 import zhy.hongyuan.greendao.service.BookGroupService;
 import zhy.hongyuan.greendao.service.BookService;

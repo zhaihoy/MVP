@@ -30,10 +30,10 @@ import android.webkit.WebViewClient;
 
 import androidx.appcompat.widget.Toolbar;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.base.BaseActivity;
 import zhy.hongyuan.common.APPCONST;
-import xyz.fycz.myreader.databinding.ActivitySourceLoginBinding;
+import zhy.panda.myreader.databinding.ActivitySourceLoginBinding;
 import zhy.hongyuan.greendao.entity.rule.BookSource;
 import zhy.hongyuan.greendao.service.CookieStore;
 import zhy.hongyuan.util.ToastUtils;

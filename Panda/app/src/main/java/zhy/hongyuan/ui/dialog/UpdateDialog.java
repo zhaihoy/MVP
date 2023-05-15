@@ -54,11 +54,11 @@ import java.net.URL;
 import java.net.URLDecoder;
 import java.util.List;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.base.observer.MyObserver;
 import zhy.hongyuan.common.APPCONST;
-import xyz.fycz.myreader.databinding.FragmentUpdateBinding;
+import zhy.panda.myreader.databinding.FragmentUpdateBinding;
 import zhy.hongyuan.util.ToastUtils;
 import zhy.hongyuan.util.utils.RxUtils;
 import zhy.hongyuan.webapi.LanZouApi;

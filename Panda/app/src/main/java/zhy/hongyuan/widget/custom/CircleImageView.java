@@ -37,7 +37,7 @@ import android.util.AttributeSet;
 import androidx.annotation.ColorInt;
 import androidx.annotation.ColorRes;
 import androidx.annotation.DrawableRes;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 
 
 public class CircleImageView extends androidx.appcompat.widget.AppCompatImageView {

@@ -27,11 +27,11 @@ import com.kongzue.dialogx.dialogs.BottomMenu;
 
 import io.reactivex.annotations.NonNull;
 import io.reactivex.disposables.Disposable;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.base.BaseActivity;
 import zhy.hongyuan.base.observer.MySingleObserver;
-import xyz.fycz.myreader.databinding.ActivityAdSettingBinding;
+import zhy.panda.myreader.databinding.ActivityAdSettingBinding;
 import zhy.hongyuan.ui.dialog.LoadingDialog;
 import zhy.hongyuan.ui.dialog.MyAlertDialog;
 import zhy.hongyuan.util.help.DateHelper;

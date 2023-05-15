@@ -34,7 +34,7 @@ import androidx.fragment.app.DialogFragment;
 
 import javax.crypto.Cipher;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.util.ToastUtils;
 
 /**

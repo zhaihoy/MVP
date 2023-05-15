@@ -33,7 +33,7 @@ import io.reactivex.ObservableSource;
 import io.reactivex.Single;
 import io.reactivex.SingleOnSubscribe;
 import io.reactivex.functions.Function;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.entity.thirdsource.BookSourceBean;
 import zhy.hongyuan.entity.thirdsource.ThirdSourceUtil;

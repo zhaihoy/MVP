@@ -50,7 +50,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.widget.explosion_field.ExplosionField;
 
 /**

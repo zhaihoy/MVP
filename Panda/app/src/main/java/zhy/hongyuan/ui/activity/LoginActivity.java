@@ -33,13 +33,13 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.widget.Toolbar;
 
 import io.reactivex.disposables.Disposable;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.base.BaseActivity;
 import zhy.hongyuan.base.BitIntentDataManager;
 import zhy.hongyuan.base.observer.MySingleObserver;
 import zhy.hongyuan.common.APPCONST;
-import xyz.fycz.myreader.databinding.ActivityLoginBinding;
+import zhy.panda.myreader.databinding.ActivityLoginBinding;
 import zhy.hongyuan.model.user.Result;
 import zhy.hongyuan.model.user.User;
 import zhy.hongyuan.model.user.UserService;

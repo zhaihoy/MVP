@@ -21,11 +21,11 @@ package zhy.hongyuan.ui.activity
 import android.os.Bundle
 import android.text.TextUtils
 import androidx.appcompat.widget.Toolbar
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.application.App
 import zhy.hongyuan.base.BaseActivity
 import zhy.hongyuan.base.adapter2.onClick
-import xyz.fycz.myreader.databinding.ActivityRemoveAdBinding
+import zhy.panda.myreader.databinding.ActivityRemoveAdBinding
 import zhy.hongyuan.util.help.RelativeDateHelp
 import zhy.hongyuan.util.utils.AdUtils
 

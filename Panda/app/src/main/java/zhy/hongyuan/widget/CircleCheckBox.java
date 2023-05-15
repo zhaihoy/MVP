@@ -29,7 +29,7 @@ import android.view.View;
 
 import java.util.Timer;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 
 import static android.graphics.Paint.ANTI_ALIAS_FLAG;
 

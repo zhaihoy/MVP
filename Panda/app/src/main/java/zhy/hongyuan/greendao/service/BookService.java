@@ -24,7 +24,7 @@ import android.text.TextUtils;
 import net.ricecode.similarity.JaroWinklerStrategy;
 import net.ricecode.similarity.StringSimilarityService;
 import net.ricecode.similarity.StringSimilarityServiceImpl;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.application.SysManager;
 import zhy.hongyuan.common.APPCONST;

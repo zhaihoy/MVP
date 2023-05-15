@@ -24,14 +24,14 @@ import androidx.appcompat.widget.Toolbar
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.kongzue.dialogx.dialogs.BottomMenu
 import io.reactivex.disposables.Disposable
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.base.BaseActivity
 import zhy.hongyuan.base.adapter.BaseListAdapter
 import zhy.hongyuan.base.adapter.IViewHolder
 import zhy.hongyuan.base.observer.MyObserver
 import zhy.hongyuan.base.observer.MySingleObserver
 import zhy.hongyuan.common.URLCONST
-import xyz.fycz.myreader.databinding.ActivitySourceSubscribeBinding
+import zhy.panda.myreader.databinding.ActivitySourceSubscribeBinding
 import zhy.hongyuan.entity.lanzou.LanZouFile
 import zhy.hongyuan.greendao.DbManager
 import zhy.hongyuan.greendao.entity.SubscribeFile

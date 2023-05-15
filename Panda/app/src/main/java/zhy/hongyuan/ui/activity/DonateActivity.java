@@ -25,11 +25,11 @@ import android.view.View;
 import androidx.appcompat.widget.Toolbar;
 
 import io.reactivex.annotations.NonNull;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.base.BaseActivity;
 import zhy.hongyuan.base.observer.MySingleObserver;
 import zhy.hongyuan.common.URLCONST;
-import xyz.fycz.myreader.databinding.ActivityDonateBinding;
+import zhy.panda.myreader.databinding.ActivityDonateBinding;
 import zhy.hongyuan.ui.dialog.MyAlertDialog;
 import zhy.hongyuan.util.ToastUtils;
 import zhy.hongyuan.util.utils.AdUtils;

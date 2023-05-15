@@ -30,13 +30,13 @@
 
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetPackage="xyz.fycz.myreader"
+            android:targetPackage="zhy.panda.myreader"
             android:targetClass="zhy.hongyuan.ui.activity.MainActivity" />
         <categories android:name="android.shortcut.conversation" />
 
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetPackage="xyz.fycz.myreader"
+            android:targetPackage="zhy.panda.myreader"
             android:targetClass="zhy.hongyuan.ui.activity.ReadActivity" />
         <categories android:name="android.shortcut.conversation"/>
     </shortcut>
@@ -52,7 +52,7 @@
 
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetPackage="xyz.fycz.myreader"
+            android:targetPackage="zhy.panda.myreader"
             android:targetClass="zhy.hongyuan.ui.activity.MainActivity" />
         <categories android:name="android.shortcut.conversation" />
     </shortcut>
@@ -66,12 +66,12 @@
             tools:ignore="UnusedAttribute">
         <intent
                 android:action="android.intent.action.VIEW"
-                android:targetPackage="xyz.fycz.myreader"
+                android:targetPackage="zhy.panda.myreader"
                 android:targetClass="zhy.hongyuan.ui.activity.MainActivity" />
         <categories android:name="android.shortcut.conversation" />
         <intent
                 android:action="android.intent.action.VIEW"
-                android:targetPackage="xyz.fycz.myreader"
+                android:targetPackage="zhy.panda.myreader"
                 android:targetClass="zhy.hongyuan.ui.activity.SearchBookActivity" />
         <categories android:name="android.shortcut.conversation" />
     </shortcut>

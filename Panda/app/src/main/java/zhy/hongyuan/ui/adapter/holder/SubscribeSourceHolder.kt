@@ -25,7 +25,7 @@ import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.RecyclerView
 import io.reactivex.Observable
 import io.reactivex.ObservableEmitter
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.base.adapter.ViewHolderImpl
 import zhy.hongyuan.base.adapter2.onClick
 import zhy.hongyuan.base.observer.MyObserver

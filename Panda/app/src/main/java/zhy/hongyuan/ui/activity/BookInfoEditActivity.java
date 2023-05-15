@@ -28,12 +28,12 @@ import androidx.appcompat.widget.Toolbar;
 
 import java.util.Objects;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.base.BaseActivity;
 import zhy.hongyuan.base.BitIntentDataManager;
 import zhy.hongyuan.common.APPCONST;
-import xyz.fycz.myreader.databinding.ActivityBookInfoEditBinding;
+import zhy.panda.myreader.databinding.ActivityBookInfoEditBinding;
 import zhy.hongyuan.greendao.entity.Book;
 import zhy.hongyuan.greendao.service.BookService;
 import zhy.hongyuan.ui.dialog.DialogCreator;

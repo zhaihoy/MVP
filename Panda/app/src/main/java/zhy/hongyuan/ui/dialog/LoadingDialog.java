@@ -27,9 +27,9 @@ import android.view.animation.RotateAnimation;
 
 import androidx.annotation.NonNull;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.common.APPCONST;
-import xyz.fycz.myreader.databinding.DialogLoadingBinding;
+import zhy.panda.myreader.databinding.DialogLoadingBinding;
 import zhy.hongyuan.util.ToastUtils;
 
 /**

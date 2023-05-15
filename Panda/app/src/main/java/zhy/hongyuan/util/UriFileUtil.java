@@ -31,7 +31,7 @@ import android.provider.MediaStore;
 
 import androidx.core.content.FileProvider;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 
 import java.io.File;
 

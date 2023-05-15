@@ -26,8 +26,8 @@ import androidx.core.content.FileProvider;
 
 import java.io.File;
 
-import xyz.fycz.myreader.BuildConfig;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.BuildConfig;
+import zhy.panda.myreader.R;
 
 public class ShareUtils {
     public static void share(Context context, int stringRes) {

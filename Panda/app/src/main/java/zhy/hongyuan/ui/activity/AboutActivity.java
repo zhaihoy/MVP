@@ -36,13 +36,13 @@ import java.io.File;
 import io.reactivex.Observable;
 import io.reactivex.ObservableOnSubscribe;
 import io.reactivex.disposables.Disposable;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.base.BaseActivity;
 import zhy.hongyuan.base.observer.MyObserver;
 import zhy.hongyuan.common.APPCONST;
 import zhy.hongyuan.common.URLCONST;
-import xyz.fycz.myreader.databinding.ActivityAboutBinding;
+import zhy.panda.myreader.databinding.ActivityAboutBinding;
 import zhy.hongyuan.entity.PluginConfig;
 import zhy.hongyuan.model.user.UserService;
 import zhy.hongyuan.ui.dialog.DialogCreator;
@@ -124,9 +124,9 @@ public class AboutActivity extends BaseActivity<ActivityAboutBinding> {
         binding.il.rlShare.setOnClickListener(v -> ShareUtils.share(this, getString(R.string.share_text) +
                 SharedPreUtils.getInstance().getString(getString(R.string.downloadLink), URLCONST.LAN_ZOU_URL)));
         binding.il.rlQq.setOnClickListener(v -> {
-            if (!App.joinQQGroup(this, "8PIOnHFuH6A38hgxvD_Rp2Bu-Ke1ToBn")) {
+            if (!App.joinQQGroup(this, " ii7nlDiu_V06MFro-NiGLKDn5ef3-MXQ")) {
                 //数据
-                ClipData mClipData = ClipData.newPlainText("Label", "1085028304");
+                ClipData mClipData = ClipData.newPlainText("Label", "714879600");
                 //把数据设置到剪切板上
                 mClipboardManager.setPrimaryClip(mClipData);
                 ToastUtils.showError("未安装手Q或安装的版本不支持！\n已复制QQ群号，您可自行前往QQ添加！");
@@ -144,10 +144,10 @@ public class AboutActivity extends BaseActivity<ActivityAboutBinding> {
 
         binding.il.rlContactAuthor.setOnClickListener(v -> {
             //数据
-            ClipData mClipData = ClipData.newPlainText("Label", "fengyuecanzhu@gmail.com");
+            ClipData mClipData = ClipData.newPlainText("Label", "zhaihoy@foxmail.com");
             //把数据设置到剪切板上
             mClipboardManager.setPrimaryClip(mClipData);
-            ToastUtils.showSuccess("邮箱\"fengyuecanzhu@gmail.com\"已复制到剪切板");
+            ToastUtils.showSuccess("邮箱\"zhaihoy@foxmail.com\"已复制到剪切板");
         });
         binding.il.rlJoinQqChannel.setOnClickListener(v -> {
             Intent intent = new Intent(Intent.ACTION_VIEW);

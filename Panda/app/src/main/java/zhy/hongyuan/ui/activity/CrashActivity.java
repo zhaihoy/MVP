@@ -48,7 +48,7 @@ import java.util.regex.Pattern;
 
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.base.BaseActivity;
-import xyz.fycz.myreader.databinding.ActivityCrashBinding;
+import zhy.panda.myreader.databinding.ActivityCrashBinding;
 import zhy.hongyuan.util.ShareUtils;
 import zhy.hongyuan.util.ToastUtils;
 

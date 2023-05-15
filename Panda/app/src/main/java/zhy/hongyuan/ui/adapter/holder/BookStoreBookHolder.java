@@ -24,7 +24,7 @@ import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.base.adapter.ViewHolderImpl;
 import zhy.hongyuan.greendao.entity.Book;

@@ -5,7 +5,7 @@
   * 基于面向接口开发的思想，对于书源我设计了如下接口：
 
     * ```java
-      // 这个接口位于xyz.fycz.myreader.webapi.crawler.base包下
+      // 这个接口位于zhy.panda.myreader.webapi.crawler.base包下
       public interface ReadCrawler {
           String getSearchLink();  // 书源的搜索url
           String getCharset(); // 书源的字符编码

@@ -30,7 +30,7 @@ import androidx.fragment.app.Fragment;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
-import xyz.fycz.myreader.databinding.FragmentCatalogBinding;
+import zhy.panda.myreader.databinding.FragmentCatalogBinding;
 import zhy.hongyuan.ui.presenter.CatalogPresenter;
 
 /**

@@ -46,7 +46,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.common.APPCONST;
 import zhy.hongyuan.ui.activity.ReadActivity;

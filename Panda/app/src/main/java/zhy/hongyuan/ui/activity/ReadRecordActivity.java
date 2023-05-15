@@ -31,14 +31,14 @@ import org.jetbrains.annotations.NotNull;
 import java.util.List;
 
 import io.reactivex.disposables.Disposable;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.base.BaseActivity;
 import zhy.hongyuan.base.BitIntentDataManager;
 import zhy.hongyuan.base.adapter.BaseListAdapter;
 import zhy.hongyuan.base.adapter.IViewHolder;
 import zhy.hongyuan.base.observer.MySingleObserver;
 import zhy.hongyuan.common.APPCONST;
-import xyz.fycz.myreader.databinding.ActivityReadRecordBinding;
+import zhy.panda.myreader.databinding.ActivityReadRecordBinding;
 import zhy.hongyuan.greendao.DbManager;
 import zhy.hongyuan.greendao.entity.Book;
 import zhy.hongyuan.greendao.entity.ReadRecord;

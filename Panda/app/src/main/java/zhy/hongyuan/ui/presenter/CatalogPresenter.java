@@ -24,7 +24,7 @@ import android.view.View;
 
 import org.jetbrains.annotations.NotNull;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.base.BasePresenter;
 import zhy.hongyuan.base.observer.MyObserver;

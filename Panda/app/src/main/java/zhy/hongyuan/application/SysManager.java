@@ -20,7 +20,7 @@ package zhy.hongyuan.application;
 
 import android.util.Log;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.common.APPCONST;
 import zhy.hongyuan.entity.Setting;
 import zhy.hongyuan.enums.BookcaseStyle;

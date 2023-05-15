@@ -40,7 +40,7 @@ import cn.bingoogolapple.qrcode.zxing.QRCodeEncoder;
 import io.reactivex.Single;
 import io.reactivex.SingleOnSubscribe;
 import io.reactivex.annotations.NonNull;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.base.observer.MySingleObserver;
 import zhy.hongyuan.common.APPCONST;
 import zhy.hongyuan.common.URLCONST;

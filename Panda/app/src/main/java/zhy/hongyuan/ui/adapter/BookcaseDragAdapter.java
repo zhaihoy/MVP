@@ -32,7 +32,7 @@ import org.jetbrains.annotations.NotNull;
 
 import java.util.ArrayList;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.base.BitIntentDataManager;
 import zhy.hongyuan.ui.activity.ReadActivity;

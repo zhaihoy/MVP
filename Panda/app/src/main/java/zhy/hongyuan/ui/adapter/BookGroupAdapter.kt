@@ -27,7 +27,7 @@ import androidx.recyclerview.widget.RecyclerView
 import zhy.hongyuan.application.App
 import zhy.hongyuan.base.adapter2.ItemViewHolder
 import zhy.hongyuan.base.adapter2.RecyclerAdapter
-import xyz.fycz.myreader.databinding.ItemGroupBinding
+import zhy.panda.myreader.databinding.ItemGroupBinding
 import zhy.hongyuan.greendao.entity.BookGroup
 import zhy.hongyuan.greendao.service.BookGroupService
 import zhy.hongyuan.ui.adapter.helper.ItemTouchCallback

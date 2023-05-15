@@ -35,7 +35,7 @@ import java.util.List;
 import zhy.hongyuan.base.BitIntentDataManager;
 import zhy.hongyuan.base.LazyFragment;
 import zhy.hongyuan.common.APPCONST;
-import xyz.fycz.myreader.databinding.FragmentFindBook1Binding;
+import zhy.panda.myreader.databinding.FragmentFindBook1Binding;
 import zhy.hongyuan.entity.FindKind;
 import zhy.hongyuan.ui.adapter.TabFragmentPageAdapter;
 import zhy.hongyuan.util.help.StringHelper;

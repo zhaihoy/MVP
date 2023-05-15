@@ -20,7 +20,7 @@ package zhy.hongyuan.ui.presenter;
 
 import android.app.Activity;
 import android.content.Intent;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.base.BasePresenter;
 import zhy.hongyuan.common.APPCONST;
 import zhy.hongyuan.greendao.entity.Book;

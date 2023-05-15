@@ -42,11 +42,11 @@ import java.io.FileOutputStream;
 import java.io.InputStream;
 import java.util.List;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.base.BaseActivity;
 import zhy.hongyuan.common.APPCONST;
-import xyz.fycz.myreader.databinding.ActivitySplashBinding;
+import zhy.panda.myreader.databinding.ActivitySplashBinding;
 import zhy.hongyuan.greendao.service.BookGroupService;
 import zhy.hongyuan.ui.dialog.MyAlertDialog;
 import zhy.hongyuan.util.IOUtils;

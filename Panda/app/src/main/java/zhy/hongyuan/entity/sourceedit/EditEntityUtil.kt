@@ -18,7 +18,7 @@
 
 package zhy.hongyuan.entity.sourceedit
 
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.greendao.entity.rule.*
 import kotlin.collections.ArrayList
 

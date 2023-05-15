@@ -16,7 +16,7 @@
  * Copyright (C) 2020 - 2022 熊猫（XMDS）
  */
 
-package xyz.fycz.myreader;
+package zhy.panda.myreader;
 
 import androidx.test.ext.junit.runners.AndroidJUnit4;
 

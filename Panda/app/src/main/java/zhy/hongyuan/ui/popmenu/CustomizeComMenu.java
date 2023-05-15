@@ -28,9 +28,9 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.SysManager;
-import xyz.fycz.myreader.databinding.MenuCustomizeComBinding;
+import zhy.panda.myreader.databinding.MenuCustomizeComBinding;
 import zhy.hongyuan.entity.Setting;
 import zhy.hongyuan.ui.dialog.DialogCreator;
 

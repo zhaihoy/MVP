@@ -18,7 +18,7 @@
 
 package zhy.hongyuan.enums;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.util.ToastUtils;
 

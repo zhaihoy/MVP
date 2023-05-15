@@ -23,7 +23,7 @@ import android.widget.TextView;
 import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.RecyclerView;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.base.adapter.ViewHolderImpl;
 import zhy.hongyuan.greendao.entity.Chapter;
 import zhy.hongyuan.greendao.service.ChapterService;

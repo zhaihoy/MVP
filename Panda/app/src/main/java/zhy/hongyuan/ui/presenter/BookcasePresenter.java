@@ -58,7 +58,7 @@ import java.util.concurrent.Executors;
 import io.reactivex.Observable;
 import io.reactivex.disposables.Disposable;
 import io.reactivex.schedulers.Schedulers;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.application.SysManager;
 import zhy.hongyuan.base.BasePresenter;
@@ -810,7 +810,7 @@ public class BookcasePresenter implements BasePresenter {
                 Notification notification = notificationUtil.build(APPCONST.channelIdDownload)
                         .setSmallIcon(R.drawable.ic_download)
                         //通知栏大图标
-                        .setLargeIcon(BitmapFactory.decodeResource(App.getApplication().getResources(), R.mipmap.ic_launcher))
+                        .setLargeIcon(BitmapFactory.decodeResource(App.getApplication().getResources(), R.drawable.ic_launcher))
                         .setOngoing(false)
                         //点击通知后自动清除
                         .setAutoCancel(true)
@@ -944,7 +944,7 @@ public class BookcasePresenter implements BasePresenter {
             Notification notification = notificationUtil.build(APPCONST.channelIdDownload)
                     .setSmallIcon(R.drawable.ic_download)
                     //通知栏大图标
-                    .setLargeIcon(BitmapFactory.decodeResource(App.getApplication().getResources(), R.mipmap.ic_launcher))
+                    .setLargeIcon(BitmapFactory.decodeResource(App.getApplication().getResources(), R.drawable.ic_launcher))
                     .setOngoing(true)
                     //点击通知后自动清除
                     .setAutoCancel(true)

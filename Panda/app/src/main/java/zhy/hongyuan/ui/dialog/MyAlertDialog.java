@@ -55,7 +55,7 @@ import com.kongzue.dialogx.interfaces.OnBindView;
 import java.net.URISyntaxException;
 import java.util.List;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.common.APPCONST;
 import zhy.hongyuan.greendao.service.BookGroupService;

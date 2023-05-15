@@ -27,11 +27,11 @@ import android.widget.NumberPicker
 import androidx.appcompat.app.AlertDialog
 import com.kongzue.dialogx.dialogs.BottomMenu
 import io.reactivex.disposables.Disposable
-import xyz.fycz.myreader.R
+import zhy.panda.myreader.R
 import zhy.hongyuan.base.BaseFragment
 import zhy.hongyuan.base.adapter2.onClick
 import zhy.hongyuan.base.observer.MySingleObserver
-import xyz.fycz.myreader.databinding.FragmentProxySettingBinding
+import zhy.panda.myreader.databinding.FragmentProxySettingBinding
 import zhy.hongyuan.model.sourceAnalyzer.BookSourceManager
 import zhy.hongyuan.ui.dialog.DialogCreator.OnMultiDialogListener
 import zhy.hongyuan.ui.dialog.MultiChoiceDialog

@@ -22,7 +22,7 @@ import android.view.View;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import com.google.android.material.snackbar.Snackbar;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 
 

@@ -30,9 +30,9 @@ import androidx.annotation.Nullable;
 
 import com.kongzue.dialogx.dialogs.BottomMenu;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.SysManager;
-import xyz.fycz.myreader.databinding.MenuReadSettingBinding;
+import zhy.panda.myreader.databinding.MenuReadSettingBinding;
 import zhy.hongyuan.entity.Setting;
 import zhy.hongyuan.enums.Language;
 import zhy.hongyuan.ui.activity.ReadActivity;

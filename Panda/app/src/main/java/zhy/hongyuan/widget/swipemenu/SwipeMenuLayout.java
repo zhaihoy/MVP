@@ -33,7 +33,7 @@ import android.view.ViewGroup;
 import android.view.animation.AccelerateInterpolator;
 import android.view.animation.OvershootInterpolator;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 
 /**
  * 【Item侧滑删除菜单】

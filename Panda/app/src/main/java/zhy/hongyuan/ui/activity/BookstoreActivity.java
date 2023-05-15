@@ -34,12 +34,12 @@ import java.util.ArrayList;
 import java.util.LinkedHashSet;
 import java.util.List;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.base.BaseActivity;
 import zhy.hongyuan.base.BitIntentDataManager;
 import zhy.hongyuan.common.APPCONST;
-import xyz.fycz.myreader.databinding.ActiityBookstoreBinding;
+import zhy.panda.myreader.databinding.ActiityBookstoreBinding;
 import zhy.hongyuan.entity.bookstore.BookType;
 import zhy.hongyuan.entity.bookstore.QDBook;
 import zhy.hongyuan.entity.bookstore.RankBook;

@@ -72,7 +72,7 @@ import io.reactivex.Single;
 import io.reactivex.disposables.Disposable;
 import io.reactivex.schedulers.Schedulers;
 import zhy.hongyuan.ActivityManage;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.application.SysManager;
 import zhy.hongyuan.base.BaseActivity;
@@ -81,7 +81,7 @@ import zhy.hongyuan.base.observer.MyObserver;
 import zhy.hongyuan.base.observer.MySingleObserver;
 import zhy.hongyuan.common.APPCONST;
 import zhy.hongyuan.common.URLCONST;
-import xyz.fycz.myreader.databinding.ActivityReadBinding;
+import zhy.panda.myreader.databinding.ActivityReadBinding;
 import zhy.hongyuan.entity.Setting;
 import zhy.hongyuan.entity.ad.AdBean;
 import zhy.hongyuan.enums.Font;
@@ -1695,7 +1695,7 @@ public class ReadActivity extends BaseActivity<ActivityReadBinding> implements C
             Notification notification = notificationUtil.build(APPCONST.channelIdDownload)
                     .setSmallIcon(R.drawable.ic_download)
                     //通知栏大图标
-                    .setLargeIcon(BitmapFactory.decodeResource(App.getApplication().getResources(), R.mipmap.ic_launcher))
+                    .setLargeIcon(BitmapFactory.decodeResource(App.getApplication().getResources(), R.drawable.ic_launcher_new))
                     .setOngoing(true)
                     //点击通知后自动清除
                     .setAutoCancel(true)

@@ -31,7 +31,7 @@ import android.view.View;
 import androidx.annotation.Keep;
 import androidx.annotation.Nullable;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 
 
 public class BarPercentView extends View {

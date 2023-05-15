@@ -32,12 +32,12 @@ import org.jetbrains.annotations.NotNull;
 import java.util.List;
 
 import io.reactivex.disposables.Disposable;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.base.BaseActivity;
 import zhy.hongyuan.base.BitIntentDataManager;
 import zhy.hongyuan.base.observer.MyObserver;
 import zhy.hongyuan.common.APPCONST;
-import xyz.fycz.myreader.databinding.ActivityFindBookBinding;
+import zhy.panda.myreader.databinding.ActivityFindBookBinding;
 import zhy.hongyuan.greendao.entity.rule.BookSource;
 import zhy.hongyuan.ui.adapter.TabFragmentPageAdapter;
 import zhy.hongyuan.ui.dialog.DialogCreator;

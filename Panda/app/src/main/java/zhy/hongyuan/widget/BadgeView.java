@@ -36,7 +36,7 @@ import android.widget.TabWidget;
 
 import androidx.appcompat.widget.AppCompatTextView;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 
 
 /**

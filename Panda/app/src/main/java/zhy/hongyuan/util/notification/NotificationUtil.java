@@ -29,7 +29,7 @@ import android.os.Build;
 import android.provider.Settings;
 import androidx.core.app.NotificationCompat;
 import androidx.core.app.NotificationManagerCompat;
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.application.App;
 import zhy.hongyuan.common.APPCONST;
 import zhy.hongyuan.ui.dialog.MyAlertDialog;
@@ -82,7 +82,7 @@ public class NotificationUtil {
         NotificationCompat.Builder builder = build(APPCONST.channelIdDownload)
                 .setSmallIcon(R.drawable.ic_download)
                 //通知栏大图标
-                .setLargeIcon(BitmapFactory.decodeResource(App.getApplication().getResources(), R.mipmap.ic_launcher))
+                .setLargeIcon(BitmapFactory.decodeResource(App.getApplication().getResources(), R.drawable.ic_launcher))
                 .setOngoing(true)
                 //点击通知后自动清除
                 .setAutoCancel(true)

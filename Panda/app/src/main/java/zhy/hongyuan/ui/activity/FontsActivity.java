@@ -36,10 +36,10 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 
-import xyz.fycz.myreader.R;
+import zhy.panda.myreader.R;
 import zhy.hongyuan.base.BaseActivity;
 import zhy.hongyuan.common.APPCONST;
-import xyz.fycz.myreader.databinding.ActivityFontsBinding;
+import zhy.panda.myreader.databinding.ActivityFontsBinding;
 import zhy.hongyuan.enums.Font;
 import zhy.hongyuan.ui.adapter.FontsAdapter;
 import zhy.hongyuan.util.IOUtils;

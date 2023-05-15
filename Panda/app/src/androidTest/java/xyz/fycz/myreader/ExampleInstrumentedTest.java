@@ -16,7 +16,7 @@
  * Copyright (C) 2020 - 2022 熊猫（XMDS）
  */
 
-package xyz.fycz.myreader;
+package zhy.panda.myreader;
 
 import android.content.Context;
 
@@ -40,7 +40,7 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("xyz.fycz.myreader", appContext.getPackageName());
+        assertEquals("zhy.panda.myreader", appContext.getPackageName());
     }
 
     @Test

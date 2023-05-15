@@ -30,7 +30,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import zhy.hongyuan.application.SysManager;
-import xyz.fycz.myreader.databinding.MenuBrightnessEyeBinding;
+import zhy.panda.myreader.databinding.MenuBrightnessEyeBinding;
 import zhy.hongyuan.entity.Setting;
 import zhy.hongyuan.util.BrightUtil;
 
