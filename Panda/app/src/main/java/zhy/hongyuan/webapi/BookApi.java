@@ -13,7 +13,7 @@
  * You should have received a copy of the GNU General Public License
  * along with panda.  If not, see <https://www.gnu.org/licenses/>.
  *
- * Copyright (C) 2020 - 2022 fengyuecanzhu
+ * Copyright (C) 2020 - 2022 熊猫（XMDS）
  */
 
 package zhy.hongyuan.webapi;
