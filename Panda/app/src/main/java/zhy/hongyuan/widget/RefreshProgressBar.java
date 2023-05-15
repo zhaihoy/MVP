@@ -21,6 +21,7 @@ package zhy.hongyuan.widget;
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.Canvas;
+import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Rect;
 import android.graphics.RectF;
@@ -36,7 +37,7 @@ public class RefreshProgressBar extends View {
     private int secondMaxProgress = 100;
     private int secondDurProgress = 0;
     private int bgColor = 0x00000000;
-    private int secondColor = 0xFFC1C1C1;
+    private int secondColor = Color.parseColor("#249653");
     private int fontColor = 0xFF363636;
     private int speed = 2;
     private int secondFinalProgress = 0;
