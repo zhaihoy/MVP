@@ -73,5 +73,6 @@
     <color name="dialogxMIUIItemSelectionBkg">#1A0C84FF</color>
     <color name="dialogxMIUIItemSelectionBkgDark">#6282BA</color>
     <color name="shape_item_color">#FFFFFF</color>
+    <color name="shape_item_color2">#80FFFFFF</color>
     <color name="shape_item_tips">#CC000000</color>
 </resources>
