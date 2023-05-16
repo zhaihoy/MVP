@@ -23,8 +23,13 @@ import okhttp3.Credentials
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient
 import zhy.hongyuan.util.SharedPreUtils
+import java.io.IOException
 import java.net.InetSocketAddress
 import java.net.Proxy
+import java.net.ProxySelector
+import java.net.SocketAddress
+import java.net.URI
+import java.util.Collections
 import java.util.concurrent.ConcurrentHashMap
 import java.util.concurrent.TimeUnit
 
@@ -50,6 +55,14 @@ val okHttpClient: OkHttpClient by lazy {
         .connectionSpecs(specs)
         .followRedirects(true)
         .followSslRedirects(true)
+        .proxySelector(object : ProxySelector() {
+            override fun select(uri: URI?): MutableList<Proxy> {
+                return Collections.singletonList(Proxy.NO_PROXY);
+            }
+
+            override fun connectFailed(uri: URI?, sa: SocketAddress?, ioe: IOException?) {
+            }
+        })
         .addInterceptor(Interceptor { chain ->
             val request = chain.request()
                 .newBuilder()
