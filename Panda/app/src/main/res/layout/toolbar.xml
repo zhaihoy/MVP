@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-    <!--
+<?xml version="1.0" encoding="utf-8"?><!--
   ~ This file is part of panda.
   ~ panda is free software: you can redistribute it and/or modify
   ~ it under the terms of the GNU General Public License as published by
@@ -17,21 +16,34 @@
   ~ Copyright (C) 2020 - 2022 熊猫（XMDS）
   -->
 
-<androidx.appcompat.widget.Toolbar
-            xmlns:android="http://schemas.android.com/apk/res/android"
-            xmlns:app="http://schemas.android.com/apk/res-auto"
-            android:id="@+id/toolbar"
-            style="@style/NoPaddingToolbar"
-            android:layout_width="match_parent"
-            android:layout_height="45dp"
-            android:background="?attr/colorPrimary"
-            android:minHeight="?attr/actionBarSize"
-            android:gravity="center_vertical"
-            android:theme="?attr/actionBarStyle"
-            android:transitionName="sharedView"
-            app:layout_scrollFlags="scroll|enterAlways"
-            app:titleTextAppearance="@style/toolbar_title_textStyle"
-            app:subtitleTextAppearance="@style/toolbar_subtitle_textStyle"
-            app:popupTheme="@style/AppTheme.PopupOverlay">
-    <!--    android:theme="@style/Theme.ToolBar.Menu"-->
-</androidx.appcompat.widget.Toolbar>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?attr/colorPrimary">
+
+    <androidx.appcompat.widget.Toolbar xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/toolbar"
+        style="@style/NoPaddingToolbar"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:gravity="center_vertical"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarStyle"
+        android:transitionName="sharedView"
+        app:layout_scrollFlags="scroll|enterAlways"
+        app:popupTheme="@style/AppTheme.PopupOverlay"
+        app:subtitleTextAppearance="@style/toolbar_subtitle_textStyle"
+        app:titleTextAppearance="@style/toolbar_title_textStyle" />
+
+    <TextView
+        android:id="@+id/all_choose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="8dp"
+        android:text="一键订阅"
+        android:textColor="@color/white"
+        android:textSize="15dp"
+        android:visibility="gone" />
+</RelativeLayout>

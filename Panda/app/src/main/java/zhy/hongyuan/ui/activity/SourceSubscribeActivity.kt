@@ -89,6 +89,14 @@ class SourceSubscribeActivity : BaseActivity<ActivitySourceSubscribeBinding>() {
             page = 1
             loadFiles()
         }
+        showToolBarChoose(object : CallBackShow {
+            override fun showed() {
+                for (i in 0 until fileAdapter.itemSize) {
+                    val file = fileAdapter.getItem(i)
+                    subscribe(file, i)
+                }
+            }
+        }, true)
     }
 
     private fun loadFiles() {
@@ -163,10 +171,12 @@ class SourceSubscribeActivity : BaseActivity<ActivitySourceSubscribeBinding>() {
                                 }, null
                             )
                         }
+
                         "自动检查订阅更新：已开启" -> {
                             SharedPreUtils.getInstance().putBoolean("checkSubscribeUpdate", false)
                             ToastUtils.showSuccess("自动检查订阅更新已关闭")
                         }
+
                         "自动检查订阅更新：已关闭" -> {
                             SharedPreUtils.getInstance().putBoolean("checkSubscribeUpdate", true)
                             ToastUtils.showSuccess("自动检查订阅更新已开启")
@@ -223,7 +233,12 @@ class SourceSubscribeActivity : BaseActivity<ActivitySourceSubscribeBinding>() {
                     if (sources.isNotEmpty()) {
                         DbManager.getDaoSession().subscribeFileDao.insertOrReplace(file)
                         fileAdapter.notifyItemChanged(pos)
-                        ToastUtils.showSuccess(String.format("书源订阅成功，成功获取到%s个书源", size))
+                        ToastUtils.showSuccess(
+                            String.format(
+                                "书源订阅成功，成功获取到%s个书源",
+                                size
+                            )
+                        )
                         setResult(Activity.RESULT_OK)
                     } else {
                         ToastUtils.showError("订阅失败，请联系作者反馈\nsources.size==0")

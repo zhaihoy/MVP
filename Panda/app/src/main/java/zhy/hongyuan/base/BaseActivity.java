@@ -26,6 +26,8 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.TextView;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.ActionBar;
@@ -48,7 +50,7 @@ import zhy.hongyuan.util.StatusBarUtil;
 import zhy.hongyuan.util.utils.AdUtils;
 
 /**
- * @author  hongyuan
+ * @author hongyuan
  * @date 2020/8/12 20:02
  */
 public abstract class BaseActivity<VB> extends SwipeBackActivity {
@@ -61,6 +63,7 @@ public abstract class BaseActivity<VB> extends SwipeBackActivity {
     protected CompositeDisposable mDisposable;
 
     protected Toolbar mToolbar;
+    private TextView allChoose;
 
 
     /****************************abstract area*************************************/
@@ -166,10 +169,20 @@ public abstract class BaseActivity<VB> extends SwipeBackActivity {
     private void initToolbar() {
         //更严谨是通过反射判断是否存在Toolbar
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
+        allChoose = (TextView) findViewById(R.id.all_choose);
         if (mToolbar != null) {
             supportActionBar(mToolbar);
             setUpToolbar(mToolbar);
         }
+    }
+
+    public void showToolBarChoose(CallBackShow show, boolean showed) {
+        allChoose.setVisibility(showed ? View.VISIBLE : View.GONE);
+        allChoose.setOnClickListener(v -> {
+            if (show != null) {
+                show.showed();
+            }
+        });
     }
 
 
@@ -179,7 +192,7 @@ public abstract class BaseActivity<VB> extends SwipeBackActivity {
         AdUtils.backTime();
         ActivityManage.mResumeActivityCount--;
         if (ActivityManage.mResumeActivityCount <= 0
-                && !App.isBackground){
+                && !App.isBackground) {
             App.isBackground = true;
             Log.d("panda", "onActivityStarted: 应用进入后台");
         }
@@ -309,4 +322,7 @@ public abstract class BaseActivity<VB> extends SwipeBackActivity {
         return super.onMenuOpened(featureId, menu);
     }
 
+    public interface CallBackShow {
+        void showed();
+    }
 }
